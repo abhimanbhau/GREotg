@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Barron's stuff - 800, by themASterK</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javacsript" src="j.js"></script>
+<link rel="stylesheet" href="theme.css">
+</head>
+
+<body onload="script();">
+<div id="container">
+	<h3 class="h3 span">Made with love in India</h3>
+   <div class="paper">
+      <p id="word"></p>
+      <div id="worder" class="ripple"></div>
+   </div>
+   <button id="nextButton" class="btn red" type="button"><span>&nbsp; &nbsp;<b style="color: cream; font-size: 20px;">Next Word</b>&nbsp; &nbsp;</span></button>
+   <br /><br /><br />
+   <h3 class="post h3 span">Copyleft Abhimanbhau Kolte 2015</h3>
+</div>
+</body>
+
+<script>
+var client;
+var arr;
+
+var counter = 1;
+var cnt = 7;
+
+$(document).ready(function() {
+   $(".paper").mousedown(function(e) {
+      var ripple = $(this).find(".ripple");
+      ripple.removeClass("animate");
+      var x = parseInt(e.pageX - $(this).offset().left) - (ripple.width() / 2);
+      var y = parseInt(e.pageY - $(this).offset().top) - (ripple.height() / 2);
+      ripple.css({
+         top: y,
+         left: x
+      }).addClass("animate");
+	  script();
+   });
+});
+
+function script() {
+	client = new XMLHttpRequest();
+	client.onreadystatechange = function() {
+        if (client.readyState == 4 && client.status == 200) {
+		arr = JSON.parse(client.responseText);
+		}
+    }
+	client.open("GET", 'wordlist.txt', true);
+	client.send();
+}
+
+function getRandomArbitrary(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+var but = document.getElementById("nextButton");
+	but.addEventListener("click", function() {
+    next(arr);
+}, false);
+
+
+function next(arr) {
+	if((counter % cnt) == 0)
+	{
+		alert("You are really enjoying this stuff");
+		cnt += 5;
+		counter = 0;
+	}
+	counter++;
+	var out = "";
+    //var i;
+    //for(i = 0; i < arr.length; i++) {
+    //    out += '<p>' + arr[i].word + '  --  ' + arr[i].descr + '</p>';
+    //}
+	var num = getRandomArbitrary(0, 1162);
+    out += '<div id="num"><h1>' + arr[num].word + '</h1><p>' + arr[num].descr + '</p></div>';
+	document.getElementById("word").innerHTML = out;
+}
+</script>
+
+</html> 

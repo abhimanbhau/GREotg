@@ -1,0 +1,4650 @@
+[
+  {
+    "word": "abacus",
+    "descr": "frame with balls for calculating"
+  },
+  {
+    "word": "abate",
+    "descr": "to lessen to subside"
+  },
+  {
+    "word": "abdication",
+    "descr": "giving up control authority"
+  },
+  {
+    "word": "aberration",
+    "descr": "straying away from what is normal"
+  },
+  {
+    "word": "abet",
+    "descr": "help/encourage smb (in doing wrong)"
+  },
+  {
+    "word": "abeyance",
+    "descr": "suspended action"
+  },
+  {
+    "word": "abhor",
+    "descr": "to hate to detest"
+  },
+  {
+    "word": "abide",
+    "descr": "be faithful to endure"
+  },
+  {
+    "word": "abjure",
+    "descr": "promise or swear to give up"
+  },
+  {
+    "word": "abraded",
+    "descr": "rubbed off worn away by friction"
+  },
+  {
+    "word": "abrogate",
+    "descr": "repeal or annul by authority"
+  },
+  {
+    "word": "abscond",
+    "descr": "to go away suddenly (to avoid arrest)"
+  },
+  {
+    "word": "abstruse",
+    "descr": "difficult to comprehend obscure"
+  },
+  {
+    "word": "abut",
+    "descr": "border on"
+  },
+  {
+    "word": "abysmal",
+    "descr": "bottomless extreme"
+  },
+  {
+    "word": "acarpous",
+    "descr": "effete no longer fertile worn out"
+  },
+  {
+    "word": "acclaimed",
+    "descr": "welcomed with shouts and approval"
+  },
+  {
+    "word": "accolade",
+    "descr": "praise approval"
+  },
+  {
+    "word": "accretion",
+    "descr": "the growing of separate things into one"
+  },
+  {
+    "word": "adamant",
+    "descr": "kind of stone inflexible"
+  },
+  {
+    "word": "admonitory",
+    "descr": "containing warning"
+  },
+  {
+    "word": "adorn",
+    "descr": "add beauty decorate"
+  },
+  {
+    "word": "adulteration",
+    "descr": "making unpure poorer in quality"
+  },
+  {
+    "word": "affable",
+    "descr": "polite and friendly"
+  },
+  {
+    "word": "affinity",
+    "descr": "close connection relationship"
+  },
+  {
+    "word": "aggravate",
+    "descr": "make worse irritate"
+  },
+  {
+    "word": "agile",
+    "descr": "active quick-moving"
+  },
+  {
+    "word": "agog",
+    "descr": "eager/excited"
+  },
+  {
+    "word": "ail",
+    "descr": "trouble be ill"
+  },
+  {
+    "word": "alacrity",
+    "descr": "eager and cheerful readiness"
+  },
+  {
+    "word": "alcove",
+    "descr": "recess/partially enclosed place"
+  },
+  {
+    "word": "allegiance",
+    "descr": "duty support loyalty"
+  },
+  {
+    "word": "alleviate",
+    "descr": "make (pain) easier to bear"
+  },
+  {
+    "word": "alloy",
+    "descr": "to debase by mixing with something inferior"
+  },
+  {
+    "word": "aloof",
+    "descr": "reserved indifferent"
+  },
+  {
+    "word": "amalgamate",
+    "descr": "mix combine unite societies"
+  },
+  {
+    "word": "ambidextrous",
+    "descr": "able to use the left hand or the right equally well"
+  },
+  {
+    "word": "ambiguous",
+    "descr": "doubtful uncertain"
+  },
+  {
+    "word": "ambivalent",
+    "descr": "having both of two contrary meanings"
+  },
+  {
+    "word": "ameliorate",
+    "descr": "improve make better"
+  },
+  {
+    "word": "amortize",
+    "descr": "end (a debt) by setting aside money"
+  },
+  {
+    "word": "anguish",
+    "descr": "severe suffering"
+  },
+  {
+    "word": "animosity",
+    "descr": "strong dislike"
+  },
+  {
+    "word": "antidote",
+    "descr": "medicine used against a poison or a disease"
+  },
+  {
+    "word": "antithetical",
+    "descr": "direct opposing"
+  },
+  {
+    "word": "apartheid",
+    "descr": "brutal racial discrimination"
+  },
+  {
+    "word": "aplomb",
+    "descr": "self-confidence"
+  },
+  {
+    "word": "apostate",
+    "descr": "one who abandons long-held religious or political convictions"
+  },
+  {
+    "word": "apotheosis",
+    "descr": "deification glorification to godliness"
+  },
+  {
+    "word": "appease",
+    "descr": "make quiet or calm"
+  },
+  {
+    "word": "apprehensive",
+    "descr": "grasping understanding fear unhappy feeling about future"
+  },
+  {
+    "word": "apprise",
+    "descr": "give notice to inform"
+  },
+  {
+    "word": "approbation",
+    "descr": "approval"
+  },
+  {
+    "word": "apropos",
+    "descr": "appropriate to the situation apt"
+  },
+  {
+    "word": "apt",
+    "descr": "well-suited quick-witted"
+  },
+  {
+    "word": "arabesque",
+    "descr": "a complex ornate design"
+  },
+  {
+    "word": "arboreal",
+    "descr": "of connected with trees"
+  },
+  {
+    "word": "ardor",
+    "descr": "enthusiasm"
+  },
+  {
+    "word": "arduous",
+    "descr": "steep difficult ascent laborious"
+  },
+  {
+    "word": "argot",
+    "descr": "jargon slang"
+  },
+  {
+    "word": "arrant",
+    "descr": "in the highest degree"
+  },
+  {
+    "word": "arrogance",
+    "descr": "proud superior manner of behaviour"
+  },
+  {
+    "word": "articulate",
+    "descr": "speak distinctly connect by joints"
+  },
+  {
+    "word": "ascend",
+    "descr": "go or come up"
+  },
+  {
+    "word": "ascertain",
+    "descr": "get to know"
+  },
+  {
+    "word": "ascetic",
+    "descr": "practicing self-denial austere stark"
+  },
+  {
+    "word": "ascribe",
+    "descr": "consider to be the origin of or belonging to"
+  },
+  {
+    "word": "aseptic",
+    "descr": "surgically clean"
+  },
+  {
+    "word": "asperity",
+    "descr": "roughness harshness ill temper irritability"
+  },
+  {
+    "word": "aspersion",
+    "descr": "slander"
+  },
+  {
+    "word": "assail",
+    "descr": "with attack violently"
+  },
+  {
+    "word": "assiduous",
+    "descr": "diligent hard-working sedulous"
+  },
+  {
+    "word": "assuage",
+    "descr": "make smth (pain desire) less"
+  },
+  {
+    "word": "asterisk",
+    "descr": "the mark * (e.g.. omitted letters)"
+  },
+  {
+    "word": "astringent",
+    "descr": "substance that shrinks"
+  },
+  {
+    "word": "astute",
+    "descr": "clever quick at seeing to get an advantage"
+  },
+  {
+    "word": "atonement",
+    "descr": "repayment death of Jesus"
+  },
+  {
+    "word": "attenuate",
+    "descr": "make thin. weaken enervate"
+  },
+  {
+    "word": "attune",
+    "descr": "bring into harmony"
+  },
+  {
+    "word": "audacious",
+    "descr": "daring foolishly bold impudent"
+  },
+  {
+    "word": "augury",
+    "descr": "omen sign"
+  },
+  {
+    "word": "august",
+    "descr": "majestic venerable"
+  },
+  {
+    "word": "auspicious",
+    "descr": "favorable successful prosperous"
+  },
+  {
+    "word": "austere",
+    "descr": "severely moral and strict simple and plain"
+  },
+  {
+    "word": "auxiliary",
+    "descr": "helping supporting"
+  },
+  {
+    "word": "aver",
+    "descr": "affirm assert prove justify"
+  },
+  {
+    "word": "aversion",
+    "descr": "strong dislike"
+  },
+  {
+    "word": "avid",
+    "descr": "eager greedy"
+  },
+  {
+    "word": "avow",
+    "descr": "admit. Declare openly"
+  },
+  {
+    "word": "baleful",
+    "descr": "harmful ominous causing evil"
+  },
+  {
+    "word": "balk",
+    "descr": "obstacle purposely to get on the way of"
+  },
+  {
+    "word": "baneful",
+    "descr": "causing harm or ruin pernicious destructive"
+  },
+  {
+    "word": "barrage",
+    "descr": "artificial obstacle built across a river"
+  },
+  {
+    "word": "barren",
+    "descr": "not good enough unable to have young ones without value"
+  },
+  {
+    "word": "bask",
+    "descr": "in enjoy warmth and light"
+  },
+  {
+    "word": "beatify",
+    "descr": "to bless make happy or ascribe a virtue to"
+  },
+  {
+    "word": "bedizen",
+    "descr": "to adorn especially in a cheap showy manner"
+  },
+  {
+    "word": "belabor",
+    "descr": "beat hard"
+  },
+  {
+    "word": "bellicose",
+    "descr": "belligerent pugnacious warlike"
+  },
+  {
+    "word": "belligerent",
+    "descr": "(person nation) waging war"
+  },
+  {
+    "word": "benefactor",
+    "descr": "person who has given help"
+  },
+  {
+    "word": "benevolence",
+    "descr": "wish or activity in doing good"
+  },
+  {
+    "word": "benign",
+    "descr": "kind and gentle mild (climate)"
+  },
+  {
+    "word": "bequest",
+    "descr": "arrangement to give smth at death"
+  },
+  {
+    "word": "berate",
+    "descr": "scold sharply"
+  },
+  {
+    "word": "bereft",
+    "descr": "rob or dispossess of smth (material)"
+  },
+  {
+    "word": "bewilder",
+    "descr": "puzzle confuse"
+  },
+  {
+    "word": "bigot",
+    "descr": "stubborn narrow-minded person"
+  },
+  {
+    "word": "bilge",
+    "descr": "bulge the protuberance of a cask"
+  },
+  {
+    "word": "blandishment",
+    "descr": "flattery coaxing"
+  },
+  {
+    "word": "blandness",
+    "descr": "polite manner comforting uninteresting"
+  },
+  {
+    "word": "blatant",
+    "descr": "noisy and rough"
+  },
+  {
+    "word": "blithe",
+    "descr": "cheerful casual carefree"
+  },
+  {
+    "word": "bogus",
+    "descr": "sham counterfeit not genuine"
+  },
+  {
+    "word": "boisterous",
+    "descr": "loud noisy rough lacking restraint"
+  },
+  {
+    "word": "bolster",
+    "descr": "give greatly needed support"
+  },
+  {
+    "word": "boorish",
+    "descr": "crude offensive rude"
+  },
+  {
+    "word": "brash",
+    "descr": "hasty rush cheeky saucy"
+  },
+  {
+    "word": "brass",
+    "descr": "yellow metal (mixing copper and zinc)"
+  },
+  {
+    "word": "brazen",
+    "descr": "made of brass"
+  },
+  {
+    "word": "breach",
+    "descr": "opening broken place breaking"
+  },
+  {
+    "word": "brittle",
+    "descr": "easily broken"
+  },
+  {
+    "word": "broach",
+    "descr": "bring up announce begin to talk about"
+  },
+  {
+    "word": "brook",
+    "descr": "to tolerate endure"
+  },
+  {
+    "word": "buoyant",
+    "descr": "able to float light-hearted"
+  },
+  {
+    "word": "burgeon",
+    "descr": "grow forth send out buds"
+  },
+  {
+    "word": "burnish",
+    "descr": "to polish rub to a shine"
+  },
+  {
+    "word": "cabal",
+    "descr": "a scheme or plot a group of plotters"
+  },
+  {
+    "word": "cadge",
+    "descr": "to beg to get by begging"
+  },
+  {
+    "word": "cajole",
+    "descr": "use flattery or deceit to persuade"
+  },
+  {
+    "word": "calipers",
+    "descr": "metal supports attached to the legs measuring instrument"
+  },
+  {
+    "word": "calumny",
+    "descr": "slander aspersion"
+  },
+  {
+    "word": "candid",
+    "descr": "frank straight-forward"
+  },
+  {
+    "word": "cant",
+    "descr": "insincere talk/jargon"
+  },
+  {
+    "word": "cantankerous",
+    "descr": "bad-tempered/quarrelsome"
+  },
+  {
+    "word": "canvass",
+    "descr": "discuss thoroughly sort of touting"
+  },
+  {
+    "word": "castigate",
+    "descr": "to chastise correct by punishing"
+  },
+  {
+    "word": "castigation",
+    "descr": "severe punishment"
+  },
+  {
+    "word": "catalyst",
+    "descr": "substance that causes speeding up"
+  },
+  {
+    "word": "caustic",
+    "descr": "biting sarcastic"
+  },
+  {
+    "word": "censure",
+    "descr": "expression of blame or disapproval a rebuke"
+  },
+  {
+    "word": "centurion",
+    "descr": "leader of a unit of 100 soldiers"
+  },
+  {
+    "word": "chary",
+    "descr": "cautious wary"
+  },
+  {
+    "word": "chastened",
+    "descr": "corrected punished"
+  },
+  {
+    "word": "chastisement",
+    "descr": "punishment"
+  },
+  {
+    "word": "chauvinist",
+    "descr": "a blindly devoted patriot"
+  },
+  {
+    "word": "chicanery",
+    "descr": "legal trickery/false argument"
+  },
+  {
+    "word": "chisel",
+    "descr": "steel tool for shaping materials"
+  },
+  {
+    "word": "churl",
+    "descr": "bad-tempered person"
+  },
+  {
+    "word": "clamor",
+    "descr": "shout complain with a lot of noise"
+  },
+  {
+    "word": "clientele",
+    "descr": "customers"
+  },
+  {
+    "word": "clinch",
+    "descr": "come to grips/settle conclusively"
+  },
+  {
+    "word": "cling",
+    "descr": "to resist separation"
+  },
+  {
+    "word": "clot",
+    "descr": "half-solid lump formed from liquid"
+  },
+  {
+    "word": "cloture",
+    "descr": "closing device (in Parliament) to end a debate by voting"
+  },
+  {
+    "word": "coagulation",
+    "descr": "change to a thick and solid state"
+  },
+  {
+    "word": "coalescing",
+    "descr": "coming together and uniting into one substance"
+  },
+  {
+    "word": "coax",
+    "descr": "get smb to do smth by kindness"
+  },
+  {
+    "word": "coda",
+    "descr": "passage that completes a piece of music"
+  },
+  {
+    "word": "coddle",
+    "descr": "treat with care and tenderness"
+  },
+  {
+    "word": "coerce",
+    "descr": "compel to force to make obedient"
+  },
+  {
+    "word": "coeval",
+    "descr": "of the same period coexisting"
+  },
+  {
+    "word": "cogent",
+    "descr": "strong convincing"
+  },
+  {
+    "word": "cogitate",
+    "descr": "think deeply mediate"
+  },
+  {
+    "word": "cognizant",
+    "descr": "being fully aware of"
+  },
+  {
+    "word": "colander",
+    "descr": "bowl-shaped vessel with many holes used to drain off water"
+  },
+  {
+    "word": "collusion",
+    "descr": "secret agreement for a deceitful purpose"
+  },
+  {
+    "word": "combustion",
+    "descr": "process of burning"
+  },
+  {
+    "word": "commemorate",
+    "descr": "keep the memory of"
+  },
+  {
+    "word": "commodious",
+    "descr": "having plenty of space for what is needed"
+  },
+  {
+    "word": "commuter",
+    "descr": "person who travels regularly"
+  },
+  {
+    "word": "complaisance",
+    "descr": "tending to comply obliging willingness to please"
+  },
+  {
+    "word": "compunction",
+    "descr": "feeling of regret for one's action"
+  },
+  {
+    "word": "conceal",
+    "descr": "hide keep secret"
+  },
+  {
+    "word": "conceit",
+    "descr": "over-high opinion of too much pride"
+  },
+  {
+    "word": "conciliatory",
+    "descr": "reconciling soothing comforting mollifying"
+  },
+  {
+    "word": "concord",
+    "descr": "agreement or harmony"
+  },
+  {
+    "word": "concur",
+    "descr": "agree in opinion happen together"
+  },
+  {
+    "word": "condense",
+    "descr": "increase in density strength make laconic"
+  },
+  {
+    "word": "condone",
+    "descr": "forgive"
+  },
+  {
+    "word": "congeal",
+    "descr": "make or become stiff and solid"
+  },
+  {
+    "word": "conjoin",
+    "descr": "to join together"
+  },
+  {
+    "word": "connoisseur",
+    "descr": "a person with good judgement (e.g.. in art)"
+  },
+  {
+    "word": "connotation",
+    "descr": "suggestion in addition to"
+  },
+  {
+    "word": "consequential",
+    "descr": "pompous self important"
+  },
+  {
+    "word": "console",
+    "descr": "give comfort or sympathy to"
+  },
+  {
+    "word": "conspicuous",
+    "descr": "easily seen remarkable"
+  },
+  {
+    "word": "consternation",
+    "descr": "surprise and fear dismay"
+  },
+  {
+    "word": "constrain",
+    "descr": "compel"
+  },
+  {
+    "word": "constrict",
+    "descr": "make tight or smaller"
+  },
+  {
+    "word": "consume",
+    "descr": "get to the end of"
+  },
+  {
+    "word": "consummate",
+    "descr": "perfect/make perfect/complete"
+  },
+  {
+    "word": "contemn",
+    "descr": "to scorn or despise"
+  },
+  {
+    "word": "contentious",
+    "descr": "argumentative pugnacious combative quarrelsome"
+  },
+  {
+    "word": "contiguous",
+    "descr": "touching neighboring near"
+  },
+  {
+    "word": "contrite",
+    "descr": "filled with deep sorrow for wrongdoing"
+  },
+  {
+    "word": "contumacious",
+    "descr": "insubordinate rebellious"
+  },
+  {
+    "word": "conundrum",
+    "descr": "a riddle dilemma enigma"
+  },
+  {
+    "word": "conviction",
+    "descr": "convincing firm belief"
+  },
+  {
+    "word": "convoke",
+    "descr": "call together summon"
+  },
+  {
+    "word": "convoluted",
+    "descr": "complicated coiled twisted"
+  },
+  {
+    "word": "cordial",
+    "descr": "warm and sincere"
+  },
+  {
+    "word": "cordon",
+    "descr": "line (of police acting as a guard)"
+  },
+  {
+    "word": "cornucopia",
+    "descr": "abundant supply"
+  },
+  {
+    "word": "corporeal",
+    "descr": "physical of or for the body"
+  },
+  {
+    "word": "correlate",
+    "descr": "have a mutual relation"
+  },
+  {
+    "word": "corroboration",
+    "descr": "additional strengthening evidence"
+  },
+  {
+    "word": "countenance",
+    "descr": "to favor or approve of"
+  },
+  {
+    "word": "counterfeit",
+    "descr": "forgery"
+  },
+  {
+    "word": "countervail",
+    "descr": "counterbalance"
+  },
+  {
+    "word": "covert",
+    "descr": "disguised"
+  },
+  {
+    "word": "covetous",
+    "descr": "eagerly desirous"
+  },
+  {
+    "word": "cower",
+    "descr": "crouch shrink back"
+  },
+  {
+    "word": "coy",
+    "descr": "shy/modest (esp of a girl)"
+  },
+  {
+    "word": "crass",
+    "descr": "very great (es. stupidity)"
+  },
+  {
+    "word": "cravat",
+    "descr": "piece of linen worn as a necktie"
+  },
+  {
+    "word": "craven",
+    "descr": "cowardly"
+  },
+  {
+    "word": "crease",
+    "descr": "line made by crushing white line on the ground in cricket"
+  },
+  {
+    "word": "credulity",
+    "descr": "too great a readiness to believe things"
+  },
+  {
+    "word": "credulous",
+    "descr": "ready to believe things"
+  },
+  {
+    "word": "crush",
+    "descr": "press lose shape subdue overwhelm"
+  },
+  {
+    "word": "cryptic",
+    "descr": "secret with a hidden meaning"
+  },
+  {
+    "word": "cumbersome",
+    "descr": "burdensome heavy and awkward to carry"
+  },
+  {
+    "word": "curmudgeon",
+    "descr": "bad-tempered person"
+  },
+  {
+    "word": "curriculum",
+    "descr": "course of study"
+  },
+  {
+    "word": "cursory",
+    "descr": "quick hurried"
+  },
+  {
+    "word": "curtail",
+    "descr": "make shorter then was planned"
+  },
+  {
+    "word": "dainty",
+    "descr": "pretty/delicate(food)/difficult to please"
+  },
+  {
+    "word": "daunt",
+    "descr": "intimidate make fearful"
+  },
+  {
+    "word": "dawdler",
+    "descr": "person who is slow waste of time"
+  },
+  {
+    "word": "dearth",
+    "descr": "shortage"
+  },
+  {
+    "word": "debacle",
+    "descr": "a breakup overthrow sudden disaster"
+  },
+  {
+    "word": "decorum",
+    "descr": "propriety properness"
+  },
+  {
+    "word": "decree",
+    "descr": "order given by authority"
+  },
+  {
+    "word": "decry",
+    "descr": "disapprove of"
+  },
+  {
+    "word": "defer",
+    "descr": "postpone give way (to show respect)"
+  },
+  {
+    "word": "deferential",
+    "descr": "showing respect"
+  },
+  {
+    "word": "defiance",
+    "descr": "open disobedience or resistance"
+  },
+  {
+    "word": "delineate",
+    "descr": "to portray depict sketch out"
+  },
+  {
+    "word": "deluge",
+    "descr": "great flood heavy rush of water"
+  },
+  {
+    "word": "demagogue",
+    "descr": "person appealing not to reasons"
+  },
+  {
+    "word": "demur",
+    "descr": "to hesitate raise objections"
+  },
+  {
+    "word": "denigrate",
+    "descr": "blacken belittle sully defame"
+  },
+  {
+    "word": "denouement",
+    "descr": "an outcome or solution the unraveling of a plot"
+  },
+  {
+    "word": "deplete",
+    "descr": "use until none remains"
+  },
+  {
+    "word": "deposition",
+    "descr": "dethronement depositing"
+  },
+  {
+    "word": "deprave",
+    "descr": "make morally bad corrupt"
+  },
+  {
+    "word": "deprecate",
+    "descr": "protest against express disapproval of"
+  },
+  {
+    "word": "dereliction",
+    "descr": "deserting and leaving to fall into ruins"
+  },
+  {
+    "word": "derision",
+    "descr": "ridicule mockery deriding"
+  },
+  {
+    "word": "derivative",
+    "descr": "unoriginal obtained from another source"
+  },
+  {
+    "word": "derogatory",
+    "descr": "insulting tending to damage"
+  },
+  {
+    "word": "descry",
+    "descr": "catch sight of see smth in the distance"
+  },
+  {
+    "word": "desiccant",
+    "descr": "substance used to absorb moisture"
+  },
+  {
+    "word": "desuetude",
+    "descr": "cessation of use disuse"
+  },
+  {
+    "word": "desultory",
+    "descr": "aimless haphazard digressing at random"
+  },
+  {
+    "word": "deter",
+    "descr": "discourage hinder"
+  },
+  {
+    "word": "detraction",
+    "descr": "slandering verbal attack aspersion"
+  },
+  {
+    "word": "detumescence",
+    "descr": "diminishing or lessening of swelling"
+  },
+  {
+    "word": "deviance",
+    "descr": "being different in moral standards (from normal)"
+  },
+  {
+    "word": "dexterity",
+    "descr": "skill (esp. in handling)"
+  },
+  {
+    "word": "diaphanous",
+    "descr": "transparent gauzy"
+  },
+  {
+    "word": "diatribe",
+    "descr": "bitter and violent attack in words"
+  },
+  {
+    "word": "diffidence",
+    "descr": "shyness"
+  },
+  {
+    "word": "dilate",
+    "descr": "speak comprehensively become wider large"
+  },
+  {
+    "word": "disallow",
+    "descr": "refuse to allow or accept as a correct"
+  },
+  {
+    "word": "discern",
+    "descr": "see with an effort but clearly"
+  },
+  {
+    "word": "discomfit",
+    "descr": "confuse embarrass"
+  },
+  {
+    "word": "disconcert",
+    "descr": "upset the self-possession of"
+  },
+  {
+    "word": "discountenance",
+    "descr": "refuse to approve of"
+  },
+  {
+    "word": "discourse",
+    "descr": "speech lecture"
+  },
+  {
+    "word": "discredit",
+    "descr": "refuse to believe"
+  },
+  {
+    "word": "discreet",
+    "descr": "careful/prudent"
+  },
+  {
+    "word": "discrete",
+    "descr": "individually distinct"
+  },
+  {
+    "word": "disdain",
+    "descr": "look on with contempt"
+  },
+  {
+    "word": "disencumber",
+    "descr": "free from encumbrance"
+  },
+  {
+    "word": "disheveled",
+    "descr": "untidy"
+  },
+  {
+    "word": "disingenuous",
+    "descr": "sophisticated artful trying to deceive cunning"
+  },
+  {
+    "word": "disinter",
+    "descr": "dig up from the earth"
+  },
+  {
+    "word": "dislodge",
+    "descr": "move force from the place occupied"
+  },
+  {
+    "word": "dismal",
+    "descr": "sad gloomy miserable"
+  },
+  {
+    "word": "disparate",
+    "descr": "essentially different"
+  },
+  {
+    "word": "disproof",
+    "descr": "proof to the contrary"
+  },
+  {
+    "word": "dissemble",
+    "descr": "speak or behave so as to hide smth (in mind)"
+  },
+  {
+    "word": "disseminate",
+    "descr": "distribute (esp. ideas)"
+  },
+  {
+    "word": "dissent",
+    "descr": "have a different opinion refuse to assent"
+  },
+  {
+    "word": "dissolution",
+    "descr": "disintegration looseness in morals"
+  },
+  {
+    "word": "distraught",
+    "descr": "distracted violently upset in mind"
+  },
+  {
+    "word": "divergence",
+    "descr": "getting farther apart from a point"
+  },
+  {
+    "word": "divestiture",
+    "descr": "taking off getting rid of giving up"
+  },
+  {
+    "word": "divulge",
+    "descr": "make known smth secret"
+  },
+  {
+    "word": "doggerel",
+    "descr": "trivial poorly constructed verse"
+  },
+  {
+    "word": "dogmatic",
+    "descr": "positive certain arbitrary without room for discussion"
+  },
+  {
+    "word": "dolt",
+    "descr": "stupid fellow"
+  },
+  {
+    "word": "dormant",
+    "descr": "in a state of inactivity but awaiting development"
+  },
+  {
+    "word": "dote",
+    "descr": "show much fondness center one's attention"
+  },
+  {
+    "word": "drawl",
+    "descr": "slow way of speaking"
+  },
+  {
+    "word": "droll",
+    "descr": "jesting"
+  },
+  {
+    "word": "drone",
+    "descr": "male bee person who isn't self-employed"
+  },
+  {
+    "word": "drowsiness",
+    "descr": "feeling sleepy half asleep"
+  },
+  {
+    "word": "dubious",
+    "descr": "feeling doubt"
+  },
+  {
+    "word": "dud",
+    "descr": "no use person smth that fails"
+  },
+  {
+    "word": "dulcet",
+    "descr": "melodious harmonious"
+  },
+  {
+    "word": "dupe",
+    "descr": "cheat make a fool of"
+  },
+  {
+    "word": "duplicity",
+    "descr": "deliberate deception"
+  },
+  {
+    "word": "duress",
+    "descr": "threats to compel smb"
+  },
+  {
+    "word": "dwarf",
+    "descr": "person or smb much below the usual size"
+  },
+  {
+    "word": "dynamo",
+    "descr": "a generator something that produces electric current"
+  },
+  {
+    "word": "earthenware",
+    "descr": "dishes made of baked clay"
+  },
+  {
+    "word": "ebullience",
+    "descr": "exuberance outburst of feeling"
+  },
+  {
+    "word": "ebullient",
+    "descr": "overflowing with enthusiasm showing excitement"
+  },
+  {
+    "word": "ecumenical",
+    "descr": "representing the whole Christian world"
+  },
+  {
+    "word": "edacious",
+    "descr": "voracious devouring"
+  },
+  {
+    "word": "eddy",
+    "descr": "circular or spiral movement (e.g.. of wind)"
+  },
+  {
+    "word": "edible",
+    "descr": "fit to be eaten/not poisonous"
+  },
+  {
+    "word": "effete",
+    "descr": "infertile worn out weak"
+  },
+  {
+    "word": "efficacy",
+    "descr": "production of a desired result"
+  },
+  {
+    "word": "effluvia",
+    "descr": "outflow in a stream of particles a noxious odor or vapor"
+  },
+  {
+    "word": "effrontery",
+    "descr": "boldness impudence arrogance"
+  },
+  {
+    "word": "egress",
+    "descr": "way out exit"
+  },
+  {
+    "word": "elaborate",
+    "descr": "worked out with much care in great detail"
+  },
+  {
+    "word": "elegy",
+    "descr": "a lament a melancholy composition"
+  },
+  {
+    "word": "elicit",
+    "descr": "draw out"
+  },
+  {
+    "word": "eloquence",
+    "descr": "fluent speaking skillful use of language"
+  },
+  {
+    "word": "emaciate",
+    "descr": "make thin and weak"
+  },
+  {
+    "word": "embellish",
+    "descr": "make beautiful"
+  },
+  {
+    "word": "embezzle",
+    "descr": "use in a wrong way for one's own benefit"
+  },
+  {
+    "word": "emote",
+    "descr": "stir up excite"
+  },
+  {
+    "word": "empirical",
+    "descr": "relying on experiment"
+  },
+  {
+    "word": "encapsulate",
+    "descr": "enclose in capsule"
+  },
+  {
+    "word": "encomium",
+    "descr": "warm or glowing praise eulogy panegyric"
+  },
+  {
+    "word": "encumbrance",
+    "descr": "burden things that get on the way of"
+  },
+  {
+    "word": "endearing",
+    "descr": "making dear or liked"
+  },
+  {
+    "word": "endemic",
+    "descr": "epidemic"
+  },
+  {
+    "word": "endorse",
+    "descr": "write one's name on the back of"
+  },
+  {
+    "word": "enduring",
+    "descr": "lasting"
+  },
+  {
+    "word": "enervate",
+    "descr": "weaken deprive of strength attenuate"
+  },
+  {
+    "word": "engender",
+    "descr": "cause produce give rise to"
+  },
+  {
+    "word": "engrave",
+    "descr": "impress deeply"
+  },
+  {
+    "word": "engrossing",
+    "descr": "taken up all the time or attention writing in large or formal"
+  },
+  {
+    "word": "engulf",
+    "descr": "swallow up"
+  },
+  {
+    "word": "enigma",
+    "descr": "smth that is puzzling"
+  },
+  {
+    "word": "enmity",
+    "descr": "hatred being an enemy"
+  },
+  {
+    "word": "ensign",
+    "descr": "flag/badge"
+  },
+  {
+    "word": "entangle",
+    "descr": "put into difficulties"
+  },
+  {
+    "word": "enthral",
+    "descr": "please greatly/enslave (fig)"
+  },
+  {
+    "word": "entice",
+    "descr": "tempt or persuade"
+  },
+  {
+    "word": "entreat",
+    "descr": "ask earnestly"
+  },
+  {
+    "word": "enunciate",
+    "descr": "pronounce (words)/express a theory"
+  },
+  {
+    "word": "enzyme",
+    "descr": "catalyst"
+  },
+  {
+    "word": "epicurean",
+    "descr": "devoted to pleasure (sensuous enjoyment)"
+  },
+  {
+    "word": "epistle",
+    "descr": "letter"
+  },
+  {
+    "word": "epithet",
+    "descr": "adjective"
+  },
+  {
+    "word": "epitome",
+    "descr": "brief summary representative example a typical model"
+  },
+  {
+    "word": "equable",
+    "descr": "steady regular"
+  },
+  {
+    "word": "equanimity",
+    "descr": "calmness of temperament"
+  },
+  {
+    "word": "equilibrium",
+    "descr": "state of being balanced"
+  },
+  {
+    "word": "equipoise",
+    "descr": "equal distribution of weight equilibrium"
+  },
+  {
+    "word": "equivocal",
+    "descr": "having a double or doubtful meaning suspicious"
+  },
+  {
+    "word": "equivocate",
+    "descr": "try to deceive by equivocal language"
+  },
+  {
+    "word": "eradicate",
+    "descr": "get rid of pull up by the roots"
+  },
+  {
+    "word": "erratic",
+    "descr": "irregular in behaviour or opinion"
+  },
+  {
+    "word": "erudite",
+    "descr": "learned scholarly"
+  },
+  {
+    "word": "eschew",
+    "descr": "avoid"
+  },
+  {
+    "word": "esoteric",
+    "descr": "abstruse intended only for a small circle of"
+  },
+  {
+    "word": "espouse",
+    "descr": "marry give one's support to"
+  },
+  {
+    "word": "eulogy",
+    "descr": "formal praise panegyric"
+  },
+  {
+    "word": "euphoria",
+    "descr": "elation state of pleasant excitement"
+  },
+  {
+    "word": "euthanasia",
+    "descr": "easy and painless death"
+  },
+  {
+    "word": "evasive",
+    "descr": "tending to evade"
+  },
+  {
+    "word": "evince",
+    "descr": "to show clearly to indicate"
+  },
+  {
+    "word": "evoke",
+    "descr": "call up bring out"
+  },
+  {
+    "word": "excoriation",
+    "descr": "severe criticism"
+  },
+  {
+    "word": "exculpate",
+    "descr": "to clear from a charge of guilt"
+  },
+  {
+    "word": "exhaustive",
+    "descr": "complete thorough"
+  },
+  {
+    "word": "exigency",
+    "descr": "emergency an urgent situation"
+  },
+  {
+    "word": "exoneration",
+    "descr": "set smb clear free (e.g.. from blame)"
+  },
+  {
+    "word": "exorbitant",
+    "descr": "much too high or great"
+  },
+  {
+    "word": "expatiate",
+    "descr": "to roam wander freely"
+  },
+  {
+    "word": "expedient",
+    "descr": "likely to be useful for a purpose"
+  },
+  {
+    "word": "expiation",
+    "descr": "ending expiring"
+  },
+  {
+    "word": "exploit",
+    "descr": "brilliant achievement develop use selfishly"
+  },
+  {
+    "word": "expostulate",
+    "descr": "argue earnestly to dissuade correct or protest"
+  },
+  {
+    "word": "expurgate",
+    "descr": "to remove obscenity purify censor"
+  },
+  {
+    "word": "exscind",
+    "descr": "to cut out cut away"
+  },
+  {
+    "word": "extant",
+    "descr": "still in existence"
+  },
+  {
+    "word": "extempore",
+    "descr": "without previous thought or preparation"
+  },
+  {
+    "word": "extenuate",
+    "descr": "reduce the strength of lessen seriousness partially excuse"
+  },
+  {
+    "word": "extinct",
+    "descr": "no longer active"
+  },
+  {
+    "word": "extinguish",
+    "descr": "end the existence of/wipe or put out"
+  },
+  {
+    "word": "extirpate",
+    "descr": "to destroy exterminate cut out exscind"
+  },
+  {
+    "word": "extol",
+    "descr": "praise highly"
+  },
+  {
+    "word": "extort",
+    "descr": "obtain by threats violence"
+  },
+  {
+    "word": "extralegal",
+    "descr": "outside the law"
+  },
+  {
+    "word": "extricable",
+    "descr": "that can be freed"
+  },
+  {
+    "word": "extrovert",
+    "descr": "cheerful person"
+  },
+  {
+    "word": "exuberance",
+    "descr": "state of growing vigorously being full of life"
+  },
+  {
+    "word": "facetious",
+    "descr": "humorous funny jocular"
+  },
+  {
+    "word": "facile",
+    "descr": "easily done"
+  },
+  {
+    "word": "fallacious",
+    "descr": "based on error"
+  },
+  {
+    "word": "falter",
+    "descr": "waver/move in an uncertain manner"
+  },
+  {
+    "word": "fatuous",
+    "descr": "without sense foolish self-satisfaction"
+  },
+  {
+    "word": "fawn",
+    "descr": "young deer try to win smb's favor"
+  },
+  {
+    "word": "feckless",
+    "descr": "lacking purpose or vitality ineffective careless"
+  },
+  {
+    "word": "fecund",
+    "descr": "fertile"
+  },
+  {
+    "word": "feint",
+    "descr": "pretend"
+  },
+  {
+    "word": "felicitous",
+    "descr": "apt suitably expressed well chosen apropos"
+  },
+  {
+    "word": "felon",
+    "descr": "person guilty of murder"
+  },
+  {
+    "word": "ferment",
+    "descr": "substance become excited"
+  },
+  {
+    "word": "ferocity",
+    "descr": "savage cruelty"
+  },
+  {
+    "word": "ferret",
+    "descr": "discover by searching search"
+  },
+  {
+    "word": "fervid",
+    "descr": "showing earnest feeling"
+  },
+  {
+    "word": "fervor",
+    "descr": "warmth of feelings earnestness"
+  },
+  {
+    "word": "fetid",
+    "descr": "stinking"
+  },
+  {
+    "word": "fetter",
+    "descr": "to shackle put in chains"
+  },
+  {
+    "word": "feud",
+    "descr": "bitter quarrel over a long period of time"
+  },
+  {
+    "word": "fidelity",
+    "descr": "loyalty accuracy"
+  },
+  {
+    "word": "fidget",
+    "descr": "move restlessly make nervous"
+  },
+  {
+    "word": "figurehead",
+    "descr": "carved image on the prow of a ship"
+  },
+  {
+    "word": "finesse",
+    "descr": "delicate way of dealing with a situation"
+  },
+  {
+    "word": "finical",
+    "descr": "too fussy about food clothing etc."
+  },
+  {
+    "word": "finicky",
+    "descr": "finical"
+  },
+  {
+    "word": "fission",
+    "descr": "splitting or division (esp. of cells)"
+  },
+  {
+    "word": "fixate",
+    "descr": "stare at"
+  },
+  {
+    "word": "flak",
+    "descr": "criticism/anti-aircraft guns"
+  },
+  {
+    "word": "flamboyant",
+    "descr": "brightly colored florid"
+  },
+  {
+    "word": "flaunting",
+    "descr": "show off complacently"
+  },
+  {
+    "word": "flax",
+    "descr": "pale yellow (hair) a plant"
+  },
+  {
+    "word": "fledged",
+    "descr": "able to fly trained experienced"
+  },
+  {
+    "word": "fleet",
+    "descr": "number of ships quick-moving"
+  },
+  {
+    "word": "flinch",
+    "descr": "draw move back wince"
+  },
+  {
+    "word": "flop",
+    "descr": "fail/move/fall clumsily"
+  },
+  {
+    "word": "florid",
+    "descr": "very much ornamented naturally red (e.g.. of face)"
+  },
+  {
+    "word": "flout",
+    "descr": "reject mock to go against (as in going against tradition)"
+  },
+  {
+    "word": "fluke",
+    "descr": "lucky stroke"
+  },
+  {
+    "word": "fluster",
+    "descr": "make nervous or confused"
+  },
+  {
+    "word": "foible",
+    "descr": "defect of character (a person is wrongly proud)"
+  },
+  {
+    "word": "foil",
+    "descr": "prevent from carrying out contrast"
+  },
+  {
+    "word": "foment",
+    "descr": "put smth warm (to lessen the pain)"
+  },
+  {
+    "word": "foolproof",
+    "descr": "incapable of failure or error"
+  },
+  {
+    "word": "foppish",
+    "descr": "like a man who pays too much attention to his clothes"
+  },
+  {
+    "word": "forage",
+    "descr": "food for horses and cattle"
+  },
+  {
+    "word": "forbear",
+    "descr": "refrain from be patient ancestor"
+  },
+  {
+    "word": "forbearance",
+    "descr": "patience willingness to wait"
+  },
+  {
+    "word": "ford",
+    "descr": "shallow place in a river (to cross)"
+  },
+  {
+    "word": "forestall",
+    "descr": "prevent by taking action in advance preempt"
+  },
+  {
+    "word": "forfeit",
+    "descr": "suffer the loss of smth"
+  },
+  {
+    "word": "forge",
+    "descr": "workshop for the shaping of metal to shape metal lead"
+  },
+  {
+    "word": "forgery",
+    "descr": "counterfeit"
+  },
+  {
+    "word": "forswear",
+    "descr": "renounce disallow repudiate"
+  },
+  {
+    "word": "foster",
+    "descr": "nurture care for"
+  },
+  {
+    "word": "fracas",
+    "descr": "noisy quarrel"
+  },
+  {
+    "word": "fragile",
+    "descr": "easily injured broken or destroyed"
+  },
+  {
+    "word": "fragrant",
+    "descr": "sweet-smelling"
+  },
+  {
+    "word": "frantic",
+    "descr": "wildly excited with joy pain anxiety"
+  },
+  {
+    "word": "frenetic",
+    "descr": "frantic frenzied"
+  },
+  {
+    "word": "fret",
+    "descr": "worry irritation wear away"
+  },
+  {
+    "word": "fringe",
+    "descr": "edge ornamental border part of hair over the forehead"
+  },
+  {
+    "word": "froward",
+    "descr": "intractable not willing to yield or comply stubborn"
+  },
+  {
+    "word": "frugal",
+    "descr": "careful economical"
+  },
+  {
+    "word": "fulmination",
+    "descr": "bitter protest"
+  },
+  {
+    "word": "fulsome",
+    "descr": "disgusting offensive due to excessiveness"
+  },
+  {
+    "word": "gainsay",
+    "descr": "to deny to oppose"
+  },
+  {
+    "word": "garble",
+    "descr": "make unfair selection from facts"
+  },
+  {
+    "word": "garment",
+    "descr": "article of clothing"
+  },
+  {
+    "word": "garner",
+    "descr": "to gather and save to store up"
+  },
+  {
+    "word": "garrulity",
+    "descr": "talkativeness"
+  },
+  {
+    "word": "garrulous",
+    "descr": "too talkative"
+  },
+  {
+    "word": "gaucherie",
+    "descr": "socially awkward tactless behavior"
+  },
+  {
+    "word": "germane",
+    "descr": "relevant pertinent to"
+  },
+  {
+    "word": "gist",
+    "descr": "the point general sense"
+  },
+  {
+    "word": "glean",
+    "descr": "gather facts in small quantities"
+  },
+  {
+    "word": "glib",
+    "descr": "ready and smooth but not sincere"
+  },
+  {
+    "word": "glimmer",
+    "descr": "weak/unsteady light"
+  },
+  {
+    "word": "gloat",
+    "descr": "over look at with selfish delight"
+  },
+  {
+    "word": "glut",
+    "descr": "supply to much fill to excess"
+  },
+  {
+    "word": "gnaw",
+    "descr": "waste away bite steadily"
+  },
+  {
+    "word": "goad",
+    "descr": "smth urging a person to action"
+  },
+  {
+    "word": "gorge",
+    "descr": "eat greedily/narrow opening with a stream"
+  },
+  {
+    "word": "gossamer",
+    "descr": "soft light delicate material"
+  },
+  {
+    "word": "gouge",
+    "descr": "tool for cutting grooves in wood"
+  },
+  {
+    "word": "grandiloquent",
+    "descr": "using pompous words"
+  },
+  {
+    "word": "grave",
+    "descr": "serious requiring consideration"
+  },
+  {
+    "word": "graze",
+    "descr": "touch or scrape lightly in passing"
+  },
+  {
+    "word": "gregarious",
+    "descr": "living in societies liking the company"
+  },
+  {
+    "word": "grievous",
+    "descr": "causing grief or pain serious dire grave"
+  },
+  {
+    "word": "grovel",
+    "descr": "crawl humble oneself"
+  },
+  {
+    "word": "guile",
+    "descr": "deceit cunning"
+  },
+  {
+    "word": "gullible",
+    "descr": "easily gulled"
+  },
+  {
+    "word": "gush",
+    "descr": "burst out suddenly/talk ardently"
+  },
+  {
+    "word": "gust",
+    "descr": "outburst of feeling sudden rain wind fire etc."
+  },
+  {
+    "word": "hack",
+    "descr": "cut roughly hired horse"
+  },
+  {
+    "word": "halcyon",
+    "descr": "calm and peaceful"
+  },
+  {
+    "word": "hallow",
+    "descr": "to make holy consecrate"
+  },
+  {
+    "word": "harangue",
+    "descr": "a long passionate speech"
+  },
+  {
+    "word": "harbinger",
+    "descr": "smth or smb that foretells the coming of"
+  },
+  {
+    "word": "harrow",
+    "descr": "to distress create stress or torment"
+  },
+  {
+    "word": "haughty",
+    "descr": "arrogant conceited"
+  },
+  {
+    "word": "heed",
+    "descr": "attention/give notice to"
+  },
+  {
+    "word": "heinous",
+    "descr": "odious (of crime)"
+  },
+  {
+    "word": "heresy",
+    "descr": "belief contrary to what is generally accepted"
+  },
+  {
+    "word": "hermetic",
+    "descr": "sealed by fusion"
+  },
+  {
+    "word": "heterogeneous",
+    "descr": "made up of different kinds"
+  },
+  {
+    "word": "hew",
+    "descr": "make by hard work cut (by striking)"
+  },
+  {
+    "word": "highbrow",
+    "descr": "(person) with superior tastes"
+  },
+  {
+    "word": "hirsute",
+    "descr": "hairy shaggy"
+  },
+  {
+    "word": "hoax",
+    "descr": "mischievous trick played on smb for a joke"
+  },
+  {
+    "word": "hoi",
+    "descr": "polloi the masses the rabble"
+  },
+  {
+    "word": "hollow",
+    "descr": "not soled with hole"
+  },
+  {
+    "word": "holster",
+    "descr": "leather case for a pistol"
+  },
+  {
+    "word": "homiletics",
+    "descr": "act of preaching"
+  },
+  {
+    "word": "hone",
+    "descr": "stone used for sharpening tools"
+  },
+  {
+    "word": "hoodwink",
+    "descr": "trick mislead"
+  },
+  {
+    "word": "hospitable",
+    "descr": "liking to give hospitality"
+  },
+  {
+    "word": "hubris",
+    "descr": "arrogant pride"
+  },
+  {
+    "word": "hush",
+    "descr": "make or become silent"
+  },
+  {
+    "word": "husk",
+    "descr": "worthless outside part of anything"
+  },
+  {
+    "word": "hypocrisy",
+    "descr": "falsely making oneself appear to be good"
+  },
+  {
+    "word": "iconoclast",
+    "descr": "person who attacks popular beliefs"
+  },
+  {
+    "word": "idiosyncrasy",
+    "descr": "personal mannerism"
+  },
+  {
+    "word": "idolatry",
+    "descr": "excessive admiration of"
+  },
+  {
+    "word": "idyll",
+    "descr": "a carefree episode or experience"
+  },
+  {
+    "word": "ignoble",
+    "descr": "dishonorable common undignified"
+  },
+  {
+    "word": "ignominious",
+    "descr": "shameful dishonorable undignified disgraceful"
+  },
+  {
+    "word": "illicit",
+    "descr": "unlawful forbidden"
+  },
+  {
+    "word": "imbroglio",
+    "descr": "complicated and embarrassing situation"
+  },
+  {
+    "word": "immaculate",
+    "descr": "pure faultless"
+  },
+  {
+    "word": "imminent",
+    "descr": "likely to come or happen soon"
+  },
+  {
+    "word": "immutable",
+    "descr": "that cannot be changed"
+  },
+  {
+    "word": "impair",
+    "descr": "worsen diminish in value"
+  },
+  {
+    "word": "impassive",
+    "descr": "unmoved feeling no sign of passion"
+  },
+  {
+    "word": "impecunious",
+    "descr": "having little or no money"
+  },
+  {
+    "word": "impede",
+    "descr": "hinder get in the way of"
+  },
+  {
+    "word": "impediment",
+    "descr": "smth that hinders (e.g. stammer)"
+  },
+  {
+    "word": "impending",
+    "descr": "imminent being about to happen expected"
+  },
+  {
+    "word": "imperative",
+    "descr": "urgent essential"
+  },
+  {
+    "word": "imperious",
+    "descr": "commanding haughty arrogant"
+  },
+  {
+    "word": "impermeable",
+    "descr": "that cannot be permeated"
+  },
+  {
+    "word": "imperturbable",
+    "descr": "calm not capable of being excited"
+  },
+  {
+    "word": "impervious",
+    "descr": "not allowing to pass through (of materials)"
+  },
+  {
+    "word": "imperviousness",
+    "descr": "haughty arrogant commanding"
+  },
+  {
+    "word": "impetuous",
+    "descr": "having sudden energy impulsive thrusting ahead forceful"
+  },
+  {
+    "word": "impiety",
+    "descr": "lack of reverence or dutifulness"
+  },
+  {
+    "word": "implacable",
+    "descr": "incapable of being placated unpleasable"
+  },
+  {
+    "word": "implicate",
+    "descr": "show that smb has a share"
+  },
+  {
+    "word": "implicit",
+    "descr": "implied though not plainly expressed"
+  },
+  {
+    "word": "implosion",
+    "descr": "collapse bursting inward"
+  },
+  {
+    "word": "importune",
+    "descr": "beg urgently solicit (of a prostitute)"
+  },
+  {
+    "word": "imprecation",
+    "descr": "an invocation of evil a curse"
+  },
+  {
+    "word": "impromptu",
+    "descr": "without preparation"
+  },
+  {
+    "word": "impudent",
+    "descr": "rash indiscreet"
+  },
+  {
+    "word": "impugned",
+    "descr": "challenged to be doubted"
+  },
+  {
+    "word": "impute",
+    "descr": "to attribute to a cause or source ascribe"
+  },
+  {
+    "word": "inadvertent",
+    "descr": "not paying proper attention"
+  },
+  {
+    "word": "inane",
+    "descr": "silly senseless"
+  },
+  {
+    "word": "inasmuch",
+    "descr": "since because"
+  },
+  {
+    "word": "incense",
+    "descr": "make angry"
+  },
+  {
+    "word": "incessant",
+    "descr": "often repeated continual"
+  },
+  {
+    "word": "inchoate",
+    "descr": "not yet fully formed rudimentary elementary"
+  },
+  {
+    "word": "incipient",
+    "descr": "beginning"
+  },
+  {
+    "word": "incise",
+    "descr": "engrave make a cut in"
+  },
+  {
+    "word": "incite",
+    "descr": "stir up rouse"
+  },
+  {
+    "word": "inclined",
+    "descr": "directing the mind in a certain direction"
+  },
+  {
+    "word": "incongruous",
+    "descr": "out of place not in harmony or agreement"
+  },
+  {
+    "word": "incorrigibility",
+    "descr": "cannot be cured or corrected"
+  },
+  {
+    "word": "incredulous",
+    "descr": "skeptical unwilling to believe"
+  },
+  {
+    "word": "inculcate",
+    "descr": "fix firmly by repetition"
+  },
+  {
+    "word": "incumbents",
+    "descr": "official duties"
+  },
+  {
+    "word": "incursion",
+    "descr": "a raid a sudden attack"
+  },
+  {
+    "word": "indefatigability",
+    "descr": "not easily exhaustible tirelessness"
+  },
+  {
+    "word": "indelible",
+    "descr": "that cannot be rubbed out"
+  },
+  {
+    "word": "indigence",
+    "descr": "poverty"
+  },
+  {
+    "word": "indigenous",
+    "descr": "native"
+  },
+  {
+    "word": "indistinct",
+    "descr": "not easily heard seen clearly marked"
+  },
+  {
+    "word": "indolence",
+    "descr": "laziness"
+  },
+  {
+    "word": "indomitable",
+    "descr": "not easily discouraged or subdued"
+  },
+  {
+    "word": "indulge",
+    "descr": "gratify give way to satisfy allow oneself"
+  },
+  {
+    "word": "indulgent",
+    "descr": "inclined to indulge"
+  },
+  {
+    "word": "ineffable",
+    "descr": "to great to be described in words"
+  },
+  {
+    "word": "ineluctable",
+    "descr": "certain inevitable"
+  },
+  {
+    "word": "inept",
+    "descr": "unskillful said or done at the wrong time"
+  },
+  {
+    "word": "ineptitude",
+    "descr": "quality of being unskillful"
+  },
+  {
+    "word": "inferno",
+    "descr": "hell"
+  },
+  {
+    "word": "infuriate",
+    "descr": "fill with fury or rage"
+  },
+  {
+    "word": "infuse",
+    "descr": "put pour fill"
+  },
+  {
+    "word": "ingenuous",
+    "descr": "naive young artless frank honest sincere"
+  },
+  {
+    "word": "ingest",
+    "descr": "take in by swallowing"
+  },
+  {
+    "word": "inimical",
+    "descr": "harmful or friendly"
+  },
+  {
+    "word": "inimitable",
+    "descr": "defying imitation unmatchable"
+  },
+  {
+    "word": "innocuous",
+    "descr": "causing no harm"
+  },
+  {
+    "word": "inscrutable",
+    "descr": "incapable of being discovered or understood"
+  },
+  {
+    "word": "insensible",
+    "descr": "unconscious unresponsive unaffected"
+  },
+  {
+    "word": "insinuate",
+    "descr": "suggest unpleasantly make a way for smth gently"
+  },
+  {
+    "word": "insipid",
+    "descr": "without taste or flavor"
+  },
+  {
+    "word": "insouciant",
+    "descr": "unconcerned carefree"
+  },
+  {
+    "word": "insularity",
+    "descr": "narrow-mindedness isolated"
+  },
+  {
+    "word": "insurrection",
+    "descr": "rising of people to open resistance to"
+  },
+  {
+    "word": "interdict",
+    "descr": "prohibit forbid"
+  },
+  {
+    "word": "interim",
+    "descr": "as an installment"
+  },
+  {
+    "word": "intersperse",
+    "descr": "place here and there"
+  },
+  {
+    "word": "intransigence",
+    "descr": "unwillingness to compromise stubbornness intractability"
+  },
+  {
+    "word": "intransigent",
+    "descr": "uncompromising"
+  },
+  {
+    "word": "intrepid",
+    "descr": "fearless brave undaunted"
+  },
+  {
+    "word": "introspection",
+    "descr": "examining one's own thoughts and feelings"
+  },
+  {
+    "word": "inundate",
+    "descr": "flood cover by overflowing"
+  },
+  {
+    "word": "inured",
+    "descr": "accustomed to adapted"
+  },
+  {
+    "word": "invective",
+    "descr": "abusive language curses"
+  },
+  {
+    "word": "inveigh",
+    "descr": "to attack verbally denounce deprecate"
+  },
+  {
+    "word": "inveterate",
+    "descr": "deep-rooted. long-established"
+  },
+  {
+    "word": "invincible",
+    "descr": "too strong to be defeated"
+  },
+  {
+    "word": "involute",
+    "descr": "complex"
+  },
+  {
+    "word": "irascible",
+    "descr": "irritable easily angered"
+  },
+  {
+    "word": "irate",
+    "descr": "angry"
+  },
+  {
+    "word": "ire",
+    "descr": "anger"
+  },
+  {
+    "word": "irksome",
+    "descr": "tiresome"
+  },
+  {
+    "word": "irresolute",
+    "descr": "hesitating undecided"
+  },
+  {
+    "word": "irrevocable",
+    "descr": "final and unalterable"
+  },
+  {
+    "word": "itinerate",
+    "descr": "to travel from place to place to peregrinate"
+  },
+  {
+    "word": "jabber",
+    "descr": "talk excitedly utter rapidly"
+  },
+  {
+    "word": "jibe",
+    "descr": "gibe make fun of"
+  },
+  {
+    "word": "jocular",
+    "descr": "meant as a joke"
+  },
+  {
+    "word": "judicious",
+    "descr": "sound in judgment wise"
+  },
+  {
+    "word": "knit",
+    "descr": "draw together unite firmly"
+  },
+  {
+    "word": "labyrinthine",
+    "descr": "to entangle the state of affairs"
+  },
+  {
+    "word": "lachrymose",
+    "descr": "causing tears tearful"
+  },
+  {
+    "word": "lackluster",
+    "descr": "(of eyes) dull"
+  },
+  {
+    "word": "lament",
+    "descr": "show feel great sorrow"
+  },
+  {
+    "word": "lassitude",
+    "descr": "weariness tiredness"
+  },
+  {
+    "word": "latent",
+    "descr": "present but not yet active developed or visible"
+  },
+  {
+    "word": "laudatory",
+    "descr": "expressing or giving praise"
+  },
+  {
+    "word": "lavish",
+    "descr": "giving or producing freely liberally or generously"
+  },
+  {
+    "word": "legacy",
+    "descr": "smth handed down from ancestors"
+  },
+  {
+    "word": "levee",
+    "descr": "formal reception/embankment"
+  },
+  {
+    "word": "levity",
+    "descr": "lack of seriousness"
+  },
+  {
+    "word": "libel",
+    "descr": "statement that damages reputation"
+  },
+  {
+    "word": "liberality",
+    "descr": "free giving generosity"
+  },
+  {
+    "word": "libertine",
+    "descr": "immoral person"
+  },
+  {
+    "word": "lien",
+    "descr": "legal claim until a debt on it is repaid"
+  },
+  {
+    "word": "limn",
+    "descr": "paint portray"
+  },
+  {
+    "word": "limp",
+    "descr": "lacking strength walking unevenly"
+  },
+  {
+    "word": "lionize",
+    "descr": "treat as a famous person"
+  },
+  {
+    "word": "lithe",
+    "descr": "bending twisting"
+  },
+  {
+    "word": "loll",
+    "descr": "rest to sit or stand in a lazy way hang (dog's tongue)"
+  },
+  {
+    "word": "lope",
+    "descr": "move along with long strides"
+  },
+  {
+    "word": "loquacious",
+    "descr": "talkative garrulous"
+  },
+  {
+    "word": "lucubrate",
+    "descr": "write in scholarly fashion"
+  },
+  {
+    "word": "luculent",
+    "descr": "easily understood lucid clear"
+  },
+  {
+    "word": "lugubrious",
+    "descr": "mournful excessively sad"
+  },
+  {
+    "word": "lull",
+    "descr": "become quiet or less active"
+  },
+  {
+    "word": "lumber",
+    "descr": "move in a clumsy/noisy way"
+  },
+  {
+    "word": "luminary",
+    "descr": "star light-giving body"
+  },
+  {
+    "word": "lurk",
+    "descr": "be out of view ready to attack"
+  },
+  {
+    "word": "lustrous",
+    "descr": "being bright polished"
+  },
+  {
+    "word": "macabre",
+    "descr": "gruesome suggesting death"
+  },
+  {
+    "word": "macerate",
+    "descr": "make or become soft by soaking in water"
+  },
+  {
+    "word": "machination",
+    "descr": "plot scheme (esp. evil)"
+  },
+  {
+    "word": "maladroit",
+    "descr": "tactless clumsy"
+  },
+  {
+    "word": "malapropism",
+    "descr": "misuse of a word (for one that resembles it)"
+  },
+  {
+    "word": "malevolence",
+    "descr": "wishing to do evil"
+  },
+  {
+    "word": "malign",
+    "descr": "injurious speak ill of smb tell lie"
+  },
+  {
+    "word": "malinger",
+    "descr": "to fake illness or injury in order to shirk a duty"
+  },
+  {
+    "word": "malleable",
+    "descr": "yielding easily shaped moldable adapting"
+  },
+  {
+    "word": "manacle",
+    "descr": "chains for the hands or feet"
+  },
+  {
+    "word": "massacre",
+    "descr": "cruel killing of a large number of people"
+  },
+  {
+    "word": "matriculation",
+    "descr": "be admitted enter a university as a student"
+  },
+  {
+    "word": "maudlin",
+    "descr": "sentimental in a silly or tearful way"
+  },
+  {
+    "word": "maul",
+    "descr": "hurt by rough handling"
+  },
+  {
+    "word": "maverick",
+    "descr": "rebel nonconformist"
+  },
+  {
+    "word": "mellifluous",
+    "descr": "sweetly flowing"
+  },
+  {
+    "word": "mendacity",
+    "descr": "dishonesty"
+  },
+  {
+    "word": "mendicant",
+    "descr": "a beggar"
+  },
+  {
+    "word": "mercurial",
+    "descr": "quick changeable in character fleeting"
+  },
+  {
+    "word": "meretricious",
+    "descr": "attractive on the surface but of little value"
+  },
+  {
+    "word": "mesmerize",
+    "descr": "hypnotize"
+  },
+  {
+    "word": "meticulous",
+    "descr": "giving great attention to details"
+  },
+  {
+    "word": "mettle",
+    "descr": "quality of endurance or courage"
+  },
+  {
+    "word": "mettlesome",
+    "descr": "courageous high-spirited"
+  },
+  {
+    "word": "middling",
+    "descr": "fairly good but not very good"
+  },
+  {
+    "word": "minatory",
+    "descr": "menacing threatening"
+  },
+  {
+    "word": "mince",
+    "descr": "pronounce or speak affectedly euphemize"
+  },
+  {
+    "word": "misanthrope",
+    "descr": "person who hates mankind"
+  },
+  {
+    "word": "mischievous",
+    "descr": "harmful causing mischief"
+  },
+  {
+    "word": "miser",
+    "descr": "person who loves wealth and spends little"
+  },
+  {
+    "word": "misogynist",
+    "descr": "one who hates women/females"
+  },
+  {
+    "word": "moderation",
+    "descr": "quality of being limited not extreme"
+  },
+  {
+    "word": "mollify",
+    "descr": "make calmer or quieter"
+  },
+  {
+    "word": "molt",
+    "descr": "moult lose hair feathers before new growing"
+  },
+  {
+    "word": "morbid",
+    "descr": "diseased unhealthy (e.g.. about ideas)"
+  },
+  {
+    "word": "morose",
+    "descr": "ill-tempered unsocial"
+  },
+  {
+    "word": "muffler",
+    "descr": "cloth worn round the neck/silencer"
+  },
+  {
+    "word": "multifarious",
+    "descr": "varied motley greatly diversified"
+  },
+  {
+    "word": "mundane",
+    "descr": "worldly as opposed to spiritual commonplace everyday"
+  },
+  {
+    "word": "myriad",
+    "descr": "very great number"
+  },
+  {
+    "word": "nadir",
+    "descr": "lowest weakest point"
+  },
+  {
+    "word": "nascent",
+    "descr": "coming into existence emerging"
+  },
+  {
+    "word": "nebulous",
+    "descr": "cloud-like hazy vague indistinct"
+  },
+  {
+    "word": "negligent",
+    "descr": "taking too little care"
+  },
+  {
+    "word": "neophyte",
+    "descr": "person who has been converted to a belief"
+  },
+  {
+    "word": "nexus",
+    "descr": "a connection tie or link"
+  },
+  {
+    "word": "nibble",
+    "descr": "show some inclination to accept (an offer)"
+  },
+  {
+    "word": "noisome",
+    "descr": "offensive disgusting (smell)"
+  },
+  {
+    "word": "nonchalant",
+    "descr": "not having interest"
+  },
+  {
+    "word": "nonplused",
+    "descr": "greatly surprised"
+  },
+  {
+    "word": "nostrum",
+    "descr": "a quack remedy an untested cure"
+  },
+  {
+    "word": "noxious",
+    "descr": "harmful"
+  },
+  {
+    "word": "nugatory",
+    "descr": "trifling/worthless"
+  },
+  {
+    "word": "obdurate",
+    "descr": "hardened and unrepenting stubborn inflexible"
+  },
+  {
+    "word": "obfuscate",
+    "descr": "to darken make obscure muddle"
+  },
+  {
+    "word": "oblivious",
+    "descr": "unaware having no memory"
+  },
+  {
+    "word": "obloquy",
+    "descr": "abusively detractive language sharp criticism vituperation"
+  },
+  {
+    "word": "obsequious",
+    "descr": "too eager to obey or serve"
+  },
+  {
+    "word": "obstreperous",
+    "descr": "noisy loud"
+  },
+  {
+    "word": "obtain",
+    "descr": "to be established accepted or customary"
+  },
+  {
+    "word": "obtrusive",
+    "descr": "projecting prominent undesirably noticeable"
+  },
+  {
+    "word": "obtuse",
+    "descr": "blunt/stupid"
+  },
+  {
+    "word": "obviate",
+    "descr": "to make unnecessary get rid of"
+  },
+  {
+    "word": "occluded",
+    "descr": "blocked up"
+  },
+  {
+    "word": "odious",
+    "descr": "repulsive hateful"
+  },
+  {
+    "word": "odium",
+    "descr": "contempt dislike aversion"
+  },
+  {
+    "word": "odor",
+    "descr": "smell favor reputation"
+  },
+  {
+    "word": "officious",
+    "descr": "too eager or ready to help offer advice"
+  },
+  {
+    "word": "ominous",
+    "descr": "threatening"
+  },
+  {
+    "word": "onerous",
+    "descr": "needing effort burdensome"
+  },
+  {
+    "word": "opaqueness",
+    "descr": "dullness/not allowing light to pass through"
+  },
+  {
+    "word": "opprobrious",
+    "descr": "showing scorn or reproach"
+  },
+  {
+    "word": "ossify",
+    "descr": "to turn to bone to settle rigidly into an idea"
+  },
+  {
+    "word": "ostensible",
+    "descr": "seeming appearing as such professed"
+  },
+  {
+    "word": "ostentation",
+    "descr": "display to obtain admiration or envy"
+  },
+  {
+    "word": "ostracism",
+    "descr": "shut out from society refuse to meet talk"
+  },
+  {
+    "word": "overhaul",
+    "descr": "examine thoroughly to learn about the condition"
+  },
+  {
+    "word": "overweening",
+    "descr": "presumptuously arrogant overbearing immoderate being a jerk"
+  },
+  {
+    "word": "paean",
+    "descr": "song of praise or triumph"
+  },
+  {
+    "word": "palate",
+    "descr": "roof of the mouth sense of taste"
+  },
+  {
+    "word": "palatial",
+    "descr": "magnificent"
+  },
+  {
+    "word": "palliate",
+    "descr": "lessen the severity of"
+  },
+  {
+    "word": "palpability",
+    "descr": "can be felt touched understood"
+  },
+  {
+    "word": "palpitate",
+    "descr": "tremble beat rapidly and irregularly"
+  },
+  {
+    "word": "panegyric",
+    "descr": "formal praise eulogy"
+  },
+  {
+    "word": "paradigm",
+    "descr": "a model example or pattern"
+  },
+  {
+    "word": "parenthesis",
+    "descr": "sentence within another one smth separated"
+  },
+  {
+    "word": "pariah",
+    "descr": "an outcast a rejected and despised person"
+  },
+  {
+    "word": "parsimonious",
+    "descr": "too economical miserly"
+  },
+  {
+    "word": "partisan",
+    "descr": "one-sided committed to a party biased or prejudiced"
+  },
+  {
+    "word": "patron",
+    "descr": "regular customer person who gives support"
+  },
+  {
+    "word": "paucity",
+    "descr": "scarcity a lacking of"
+  },
+  {
+    "word": "peccadillo",
+    "descr": "small sin small weakness in one's character"
+  },
+  {
+    "word": "pedantic",
+    "descr": "bookish showing off learning"
+  },
+  {
+    "word": "pedestrian",
+    "descr": "commonplace trite unremarkable"
+  },
+  {
+    "word": "pellucid",
+    "descr": "transparent easy to understand"
+  },
+  {
+    "word": "penchant",
+    "descr": "strong inclination a liking"
+  },
+  {
+    "word": "penitent",
+    "descr": "feeling or showing regret"
+  },
+  {
+    "word": "penurious",
+    "descr": "poor/stingy"
+  },
+  {
+    "word": "penury",
+    "descr": "extreme poverty"
+  },
+  {
+    "word": "peregrination",
+    "descr": "traveling about wandering"
+  },
+  {
+    "word": "peremptory",
+    "descr": "urgent imperative unchallengeable ending debate"
+  },
+  {
+    "word": "perfidious",
+    "descr": "treacherous faithless"
+  },
+  {
+    "word": "perfidy",
+    "descr": "treachery breaking of faith"
+  },
+  {
+    "word": "perfunctory",
+    "descr": "done as a duty without care"
+  },
+  {
+    "word": "perilous",
+    "descr": "dangerous"
+  },
+  {
+    "word": "peripatetic",
+    "descr": "wandering"
+  },
+  {
+    "word": "perish",
+    "descr": "be destroyed decay"
+  },
+  {
+    "word": "perjury",
+    "descr": "willful FALSE statement unlawful act"
+  },
+  {
+    "word": "permeate",
+    "descr": "spread into every part of"
+  },
+  {
+    "word": "pernicious",
+    "descr": "harmful injurious"
+  },
+  {
+    "word": "perpetrate",
+    "descr": "be guilty commit (a crime)"
+  },
+  {
+    "word": "personable",
+    "descr": "pleasing in appearance attractive"
+  },
+  {
+    "word": "perspicacity",
+    "descr": "quick judging and understanding"
+  },
+  {
+    "word": "pertain",
+    "descr": "belong as a part have reference"
+  },
+  {
+    "word": "pest",
+    "descr": "destructive thing or a person who is nuisance"
+  },
+  {
+    "word": "petrified",
+    "descr": "taken away power (to think feel act)"
+  },
+  {
+    "word": "petrify",
+    "descr": "to make hard rocklike"
+  },
+  {
+    "word": "petrous",
+    "descr": "like a rock hard stony"
+  },
+  {
+    "word": "petulant",
+    "descr": "unreasonably impatient"
+  },
+  {
+    "word": "philistine",
+    "descr": "a smug ignorant person one who lacks knowledge"
+  },
+  {
+    "word": "phlegmatic",
+    "descr": "calm sluggish temperament unemotional"
+  },
+  {
+    "word": "picaresque",
+    "descr": "involving clever rogues or adventurers"
+  },
+  {
+    "word": "pied",
+    "descr": "of mixed colors"
+  },
+  {
+    "word": "pinch",
+    "descr": "be too tight take between the thumb and finger"
+  },
+  {
+    "word": "pine",
+    "descr": "waste away through sorrow or illness"
+  },
+  {
+    "word": "pious",
+    "descr": "dutiful to parents devoted to religion"
+  },
+  {
+    "word": "piquant",
+    "descr": "agreeably pungent stimulating"
+  },
+  {
+    "word": "pique",
+    "descr": "hurt the pride or self-respect stir (curiosity)"
+  },
+  {
+    "word": "pitfall",
+    "descr": "covered hole as a trap unsuspected danger"
+  },
+  {
+    "word": "pith",
+    "descr": "essential part force soft liquid substance"
+  },
+  {
+    "word": "pivotal",
+    "descr": "of great importance (others depend on it)"
+  },
+  {
+    "word": "placate",
+    "descr": "soothe pacify calm"
+  },
+  {
+    "word": "plaintive",
+    "descr": "mournful melancholy sorrowful"
+  },
+  {
+    "word": "plaque",
+    "descr": "flat metal on a wall as a memorial"
+  },
+  {
+    "word": "platitude",
+    "descr": "a trite or banal statement unoriginality"
+  },
+  {
+    "word": "plea",
+    "descr": "request"
+  },
+  {
+    "word": "plead",
+    "descr": "address a court of law as an advocate"
+  },
+  {
+    "word": "plethora",
+    "descr": "glut"
+  },
+  {
+    "word": "pliant",
+    "descr": "pliable easily bent shaped or twisted"
+  },
+  {
+    "word": "plod",
+    "descr": "continue doing smth without resting"
+  },
+  {
+    "word": "pluck",
+    "descr": "pull the feathers off pick (e.g.. flowers)"
+  },
+  {
+    "word": "plumb",
+    "descr": "get to the root of"
+  },
+  {
+    "word": "plummet",
+    "descr": "fall plunge steeply"
+  },
+  {
+    "word": "plunge",
+    "descr": "move quickly suddenly and with force"
+  },
+  {
+    "word": "poignant",
+    "descr": "deeply moving keen"
+  },
+  {
+    "word": "poncho",
+    "descr": "large piece of cloth"
+  },
+  {
+    "word": "ponderous",
+    "descr": "heavy bulky dull"
+  },
+  {
+    "word": "portent",
+    "descr": "omen marvelous threatening"
+  },
+  {
+    "word": "precarious",
+    "descr": "uncertain risky dangerous"
+  },
+  {
+    "word": "precepts",
+    "descr": "rules establishing standards of conduct"
+  },
+  {
+    "word": "preclude",
+    "descr": "prevent make impossible"
+  },
+  {
+    "word": "precursory",
+    "descr": "preliminary anticipating"
+  },
+  {
+    "word": "predilection",
+    "descr": "special liking mental preference"
+  },
+  {
+    "word": "predominate",
+    "descr": "have more power than others"
+  },
+  {
+    "word": "preen",
+    "descr": "tidy/show self-satisfaction"
+  },
+  {
+    "word": "premature",
+    "descr": "doing or happening smth before the right time"
+  },
+  {
+    "word": "preponderance",
+    "descr": "greatness in number strength weight"
+  },
+  {
+    "word": "presage",
+    "descr": "warning sign"
+  },
+  {
+    "word": "presumption",
+    "descr": "arrogance"
+  },
+  {
+    "word": "preternatural",
+    "descr": "not normal or usual"
+  },
+  {
+    "word": "prevalent",
+    "descr": "common"
+  },
+  {
+    "word": "prevaricate",
+    "descr": "to equivocate to stray from the truth"
+  },
+  {
+    "word": "prim",
+    "descr": "neat formal"
+  },
+  {
+    "word": "pristine",
+    "descr": "primitive unspoiled pure as in earlier times unadulterated"
+  },
+  {
+    "word": "probity",
+    "descr": "uprightness incorruptibility principle"
+  },
+  {
+    "word": "proclivity",
+    "descr": "inclination"
+  },
+  {
+    "word": "procrastination",
+    "descr": "keeping on putting off"
+  },
+  {
+    "word": "prodigal",
+    "descr": "wasteful reckless with money"
+  },
+  {
+    "word": "prodigious",
+    "descr": "enormous wonderful"
+  },
+  {
+    "word": "profane",
+    "descr": "worldly having contempt for God"
+  },
+  {
+    "word": "profligacy",
+    "descr": "shameless immorality"
+  },
+  {
+    "word": "profligate",
+    "descr": "wasteful prodigal licentious extravagant"
+  },
+  {
+    "word": "profundity",
+    "descr": "depth"
+  },
+  {
+    "word": "profuse",
+    "descr": "abundant/lavish"
+  },
+  {
+    "word": "proliferate",
+    "descr": "grow reproduce by rapid multification"
+  },
+  {
+    "word": "prolix",
+    "descr": "tiring because too long"
+  },
+  {
+    "word": "prone",
+    "descr": "prostrate inclined to (undesirable things)"
+  },
+  {
+    "word": "propagation",
+    "descr": "increasing the number spreading extending"
+  },
+  {
+    "word": "propinquity",
+    "descr": "nearness in time or place affinity of nature"
+  },
+  {
+    "word": "propitiatory",
+    "descr": "conciliatory appeasing mitigating"
+  },
+  {
+    "word": "propitious",
+    "descr": "auspicious presenting favorable circumstances"
+  },
+  {
+    "word": "prosaic",
+    "descr": "everyday mundane commonplace trite pedestrian"
+  },
+  {
+    "word": "proscribe",
+    "descr": "denounce as dangerous"
+  },
+  {
+    "word": "protracted",
+    "descr": "prolonged"
+  },
+  {
+    "word": "provident",
+    "descr": "frugal looking to the future"
+  },
+  {
+    "word": "provisional",
+    "descr": "of the present time only"
+  },
+  {
+    "word": "provoke",
+    "descr": "make angry vax"
+  },
+  {
+    "word": "prudence",
+    "descr": "careful forethought"
+  },
+  {
+    "word": "prudish",
+    "descr": "easily shocked excessively modest"
+  },
+  {
+    "word": "prune",
+    "descr": "dried plum silly person"
+  },
+  {
+    "word": "pry",
+    "descr": "get smth inquire too curiously"
+  },
+  {
+    "word": "pucker",
+    "descr": "wrinkle"
+  },
+  {
+    "word": "pugnacious",
+    "descr": "fond of in the habit of fighting"
+  },
+  {
+    "word": "puissance",
+    "descr": "strength"
+  },
+  {
+    "word": "punctilious",
+    "descr": "precise paying attention to trivialities"
+  },
+  {
+    "word": "pundit",
+    "descr": "pedant authority on a subject"
+  },
+  {
+    "word": "pungency",
+    "descr": "sharpness stinging quality"
+  },
+  {
+    "word": "purvey",
+    "descr": "provide supply"
+  },
+  {
+    "word": "pusillanimous",
+    "descr": "cowardly craven"
+  },
+  {
+    "word": "putrefaction",
+    "descr": "becoming rotten"
+  },
+  {
+    "word": "pyre",
+    "descr": "large pile of wood for burning"
+  },
+  {
+    "word": "quack",
+    "descr": "person dishonestly claiming to smth"
+  },
+  {
+    "word": "quaff",
+    "descr": "drink deeply"
+  },
+  {
+    "word": "quail",
+    "descr": "lose courage turn frightened"
+  },
+  {
+    "word": "qualm",
+    "descr": "feeling of doubt temporary feeling of sickness"
+  },
+  {
+    "word": "quandary",
+    "descr": "state of doubt or perplexity"
+  },
+  {
+    "word": "quell",
+    "descr": "suppress subdue"
+  },
+  {
+    "word": "quibble",
+    "descr": "try to avoid by sophistication"
+  },
+  {
+    "word": "quiescence",
+    "descr": "state of being passive/motionless"
+  },
+  {
+    "word": "quiescent",
+    "descr": "at rest dormant torpid"
+  },
+  {
+    "word": "quirk",
+    "descr": "habit or action peculiar to smb or smth"
+  },
+  {
+    "word": "quixotic",
+    "descr": "generous unselfish"
+  },
+  {
+    "word": "quotidian",
+    "descr": "banal everyday"
+  },
+  {
+    "word": "rabble",
+    "descr": "mob crowd the lower classes of populace"
+  },
+  {
+    "word": "raconteur",
+    "descr": "person who tells anecdotes"
+  },
+  {
+    "word": "raffish",
+    "descr": "low vulgar base tawdry"
+  },
+  {
+    "word": "ramify",
+    "descr": "to be divided or subdivided to branch out"
+  },
+  {
+    "word": "rancorous",
+    "descr": "feeling bitterness spitefulness"
+  },
+  {
+    "word": "rant",
+    "descr": "use extravagant language"
+  },
+  {
+    "word": "rapacious",
+    "descr": "greedy (esp for money)"
+  },
+  {
+    "word": "rarefy",
+    "descr": "to make thin to make less dense to purify or refine"
+  },
+  {
+    "word": "rave",
+    "descr": "act with excessive enthusiasm"
+  },
+  {
+    "word": "reactionary",
+    "descr": "opposing progress"
+  },
+  {
+    "word": "rebuff",
+    "descr": "snub"
+  },
+  {
+    "word": "recalcitrant",
+    "descr": "disobedient"
+  },
+  {
+    "word": "recant",
+    "descr": "take back as being FALSE give up"
+  },
+  {
+    "word": "recast",
+    "descr": "cast or fashion anew"
+  },
+  {
+    "word": "recidivism",
+    "descr": "relapse into antisocial or criminal behavior"
+  },
+  {
+    "word": "reciprocity",
+    "descr": "granting of privileges in return for similar"
+  },
+  {
+    "word": "recitals",
+    "descr": "a number of performance of music"
+  },
+  {
+    "word": "recluse",
+    "descr": "person who lives alone and avoids people"
+  },
+  {
+    "word": "recompense",
+    "descr": "make payment to reward punish"
+  },
+  {
+    "word": "reconcile",
+    "descr": "settle a quarrel restore peace"
+  },
+  {
+    "word": "recondite",
+    "descr": "little known abstruse"
+  },
+  {
+    "word": "recreancy",
+    "descr": "cowardice a cowardly giving up"
+  },
+  {
+    "word": "recuperate",
+    "descr": "become strong after illness loss exhaustion"
+  },
+  {
+    "word": "redeem",
+    "descr": "get back by payment compensate"
+  },
+  {
+    "word": "redoubtable",
+    "descr": "formidable causing fear"
+  },
+  {
+    "word": "refine",
+    "descr": "make or become pure cultural"
+  },
+  {
+    "word": "refractory",
+    "descr": "stubborn unmanageable untractable"
+  },
+  {
+    "word": "refulgent",
+    "descr": "shining brilliant"
+  },
+  {
+    "word": "regale",
+    "descr": "to delight or entertain to feast"
+  },
+  {
+    "word": "regicide",
+    "descr": "crime of killing a king"
+  },
+  {
+    "word": "reiterate",
+    "descr": "say or do again several times"
+  },
+  {
+    "word": "rejuvenation",
+    "descr": "becoming young in nature or appearance"
+  },
+  {
+    "word": "relapse",
+    "descr": "fall back again"
+  },
+  {
+    "word": "remonstrate",
+    "descr": "to protest object"
+  },
+  {
+    "word": "render",
+    "descr": "deliver provide represent"
+  },
+  {
+    "word": "renovate",
+    "descr": "restore smth to better condition"
+  },
+  {
+    "word": "renowned",
+    "descr": "celebrated famous"
+  },
+  {
+    "word": "repast",
+    "descr": "meal"
+  },
+  {
+    "word": "repel",
+    "descr": "refuse to accept/cause dislike"
+  },
+  {
+    "word": "repine",
+    "descr": "at be discontented with"
+  },
+  {
+    "word": "reproach",
+    "descr": "scold upbraid"
+  },
+  {
+    "word": "reprobate",
+    "descr": "person hardened in sin one devoid of decency"
+  },
+  {
+    "word": "repudiate",
+    "descr": "disown refuse to accept or pay"
+  },
+  {
+    "word": "repulsive",
+    "descr": "causing a feeling of disgust"
+  },
+  {
+    "word": "requite",
+    "descr": "repay give in return"
+  },
+  {
+    "word": "rescind",
+    "descr": "repeal/annul/cancel"
+  },
+  {
+    "word": "resigned",
+    "descr": "unresisting submissive"
+  },
+  {
+    "word": "resilience",
+    "descr": "quality of quickly recovering the original shape"
+  },
+  {
+    "word": "resort",
+    "descr": "to frequently visit"
+  },
+  {
+    "word": "restive",
+    "descr": "refusing to move reluctant to be controlled"
+  },
+  {
+    "word": "resuscitation",
+    "descr": "coming back to consciousness"
+  },
+  {
+    "word": "retard",
+    "descr": "check hinder"
+  },
+  {
+    "word": "reticent",
+    "descr": "reserved untalkative silent taciturn"
+  },
+  {
+    "word": "revere",
+    "descr": "have deep respect for"
+  },
+  {
+    "word": "reverent",
+    "descr": "feeling or showing deep respect"
+  },
+  {
+    "word": "riddle",
+    "descr": "puzzling person or thing"
+  },
+  {
+    "word": "rift",
+    "descr": "split crack dissension"
+  },
+  {
+    "word": "rivet",
+    "descr": "fix take up secure metal pin"
+  },
+  {
+    "word": "roll",
+    "descr": "call calling of names"
+  },
+  {
+    "word": "rotund",
+    "descr": "rich and deep plump and round"
+  },
+  {
+    "word": "ruffian",
+    "descr": "violent cruel man"
+  },
+  {
+    "word": "rumple",
+    "descr": "make rough"
+  },
+  {
+    "word": "sagacious",
+    "descr": "having sound judgment perceptive wise like a sage"
+  },
+  {
+    "word": "salacious",
+    "descr": "obscene"
+  },
+  {
+    "word": "salubrious",
+    "descr": "healthful"
+  },
+  {
+    "word": "salutary",
+    "descr": "remedial wholesome causing improvement"
+  },
+  {
+    "word": "sanctimony",
+    "descr": "self-righteousness hypocritical with FALSE piety"
+  },
+  {
+    "word": "sanction",
+    "descr": "approval (by authority) penalty"
+  },
+  {
+    "word": "sanguine",
+    "descr": "cheerful confident optimistic"
+  },
+  {
+    "word": "sanity",
+    "descr": "health of mind soundness of judgement"
+  },
+  {
+    "word": "sash",
+    "descr": "long strip worn round the waist"
+  },
+  {
+    "word": "satiate",
+    "descr": "satisfy fully"
+  },
+  {
+    "word": "saturnine",
+    "descr": "gloomy dark sullen morose"
+  },
+  {
+    "word": "savant",
+    "descr": "person of great learning"
+  },
+  {
+    "word": "savor",
+    "descr": "taste flavor smth"
+  },
+  {
+    "word": "sawdust",
+    "descr": "tiny bits of wood"
+  },
+  {
+    "word": "scabbard",
+    "descr": "sheath for the blade"
+  },
+  {
+    "word": "scent",
+    "descr": "smell (esp pleasant)"
+  },
+  {
+    "word": "scorch",
+    "descr": "become discolored/dry up/go at high speed"
+  },
+  {
+    "word": "scribble",
+    "descr": "write hastily"
+  },
+  {
+    "word": "scurvy",
+    "descr": "mean contemptible"
+  },
+  {
+    "word": "secular",
+    "descr": "material (not spiritual) living outside monasteries"
+  },
+  {
+    "word": "sedulous",
+    "descr": "persevering"
+  },
+  {
+    "word": "seminal",
+    "descr": "like a seed constituting a source originative"
+  },
+  {
+    "word": "sententious",
+    "descr": "short and pithy full of maxims/proverbs"
+  },
+  {
+    "word": "sequence",
+    "descr": "succession connected line of"
+  },
+  {
+    "word": "sere",
+    "descr": "make hard and without feeling"
+  },
+  {
+    "word": "sermon",
+    "descr": "reproving a person for his faults"
+  },
+  {
+    "word": "serrated",
+    "descr": "having a toothed edge"
+  },
+  {
+    "word": "serration",
+    "descr": "having a toothed edge"
+  },
+  {
+    "word": "servile",
+    "descr": "like a slave lacking independence"
+  },
+  {
+    "word": "sever",
+    "descr": "break off"
+  },
+  {
+    "word": "severance",
+    "descr": "severing"
+  },
+  {
+    "word": "shallow",
+    "descr": "little depth not earnest"
+  },
+  {
+    "word": "shard",
+    "descr": "piece of broken earthenware"
+  },
+  {
+    "word": "sheath",
+    "descr": "cover for the blade of a weapon or a tool"
+  },
+  {
+    "word": "shrewd",
+    "descr": "astute showing sound judgement"
+  },
+  {
+    "word": "shrill",
+    "descr": "sharp piercing"
+  },
+  {
+    "word": "shun",
+    "descr": "keep away from avoid"
+  },
+  {
+    "word": "shunt",
+    "descr": "send from one track to another lay aside evade discussion"
+  },
+  {
+    "word": "sidestep",
+    "descr": "step to one side"
+  },
+  {
+    "word": "simper",
+    "descr": "(give a) silly/self-conscious smile"
+  },
+  {
+    "word": "sinuous",
+    "descr": "winding undulating serpentine"
+  },
+  {
+    "word": "skiff",
+    "descr": "small boat"
+  },
+  {
+    "word": "skit",
+    "descr": "short piece of humorous writing"
+  },
+  {
+    "word": "slack",
+    "descr": "sluggish dull not tight"
+  },
+  {
+    "word": "slake",
+    "descr": "to assuage to satisfy allay"
+  },
+  {
+    "word": "slate",
+    "descr": "king of blue-grey stone propose criticize"
+  },
+  {
+    "word": "sluggard",
+    "descr": "lazy slow-moving person"
+  },
+  {
+    "word": "slur",
+    "descr": "join sounds/words (indistinct)"
+  },
+  {
+    "word": "smolder",
+    "descr": "burn slowly without flame"
+  },
+  {
+    "word": "snare",
+    "descr": "trap"
+  },
+  {
+    "word": "snub",
+    "descr": "treat with contempt"
+  },
+  {
+    "word": "soar",
+    "descr": "rise fly high"
+  },
+  {
+    "word": "sober",
+    "descr": "self-controlled"
+  },
+  {
+    "word": "sobriety",
+    "descr": "quality or condition of being sober"
+  },
+  {
+    "word": "sodden",
+    "descr": "soaked saturated"
+  },
+  {
+    "word": "soggy",
+    "descr": "heavy with water"
+  },
+  {
+    "word": "solvent",
+    "descr": "of the power of forming a solution"
+  },
+  {
+    "word": "somatic",
+    "descr": "of the body"
+  },
+  {
+    "word": "soot",
+    "descr": "black powder in smoke"
+  },
+  {
+    "word": "sophisticated",
+    "descr": "complex subtle refined"
+  },
+  {
+    "word": "sophistry",
+    "descr": "fallacious reasoning faulty logic"
+  },
+  {
+    "word": "sophomoric",
+    "descr": "self-assured though immature affected bombastic overblown"
+  },
+  {
+    "word": "soporific",
+    "descr": "producing sleep"
+  },
+  {
+    "word": "sordid",
+    "descr": "wretched comfortless contemptible"
+  },
+  {
+    "word": "spear",
+    "descr": "weapon with a metal point on a long shaft"
+  },
+  {
+    "word": "specious",
+    "descr": "illogical of questionable truth or merit"
+  },
+  {
+    "word": "splenetic",
+    "descr": "bad-tempered irritable"
+  },
+  {
+    "word": "splice",
+    "descr": "join (two ends)"
+  },
+  {
+    "word": "sponge",
+    "descr": "porous rubber for washing live at once expense"
+  },
+  {
+    "word": "spurious",
+    "descr": "FALSE counterfeit"
+  },
+  {
+    "word": "spurn",
+    "descr": "have nothing to do reject or refuse"
+  },
+  {
+    "word": "squalid",
+    "descr": "foul filthy"
+  },
+  {
+    "word": "squander",
+    "descr": "spend wastefully"
+  },
+  {
+    "word": "squat",
+    "descr": "crouch/settle without permission"
+  },
+  {
+    "word": "stanch",
+    "descr": "to stop the flow of a fluid"
+  },
+  {
+    "word": "steeply",
+    "descr": "rising or falling sharply"
+  },
+  {
+    "word": "stentorian",
+    "descr": "extremely loud and powerful"
+  },
+  {
+    "word": "stickler",
+    "descr": "person who insists on importance of smth"
+  },
+  {
+    "word": "stigma",
+    "descr": "mark of shame or disgrace"
+  },
+  {
+    "word": "stigmatize",
+    "descr": "describe smb scornfully"
+  },
+  {
+    "word": "sting",
+    "descr": "smth sharp"
+  },
+  {
+    "word": "stingy",
+    "descr": "spending using unwillingly"
+  },
+  {
+    "word": "stint",
+    "descr": "to be thrifty to set limits"
+  },
+  {
+    "word": "stipple",
+    "descr": "paint with dots"
+  },
+  {
+    "word": "stipulate",
+    "descr": "state or put forward as a necessary condition"
+  },
+  {
+    "word": "stolid",
+    "descr": "showing no emotion impassive"
+  },
+  {
+    "word": "stray",
+    "descr": "wander lose one's way"
+  },
+  {
+    "word": "streak",
+    "descr": "long thin move very fast"
+  },
+  {
+    "word": "striated",
+    "descr": "striped grooved or banded"
+  },
+  {
+    "word": "stride",
+    "descr": "walk with long steps"
+  },
+  {
+    "word": "strut",
+    "descr": "a supporting bar"
+  },
+  {
+    "word": "stygian",
+    "descr": "hence dark gloomy"
+  },
+  {
+    "word": "stymie",
+    "descr": "to hinder obstruct or block"
+  },
+  {
+    "word": "subdue",
+    "descr": "overcome bring under control"
+  },
+  {
+    "word": "sublime",
+    "descr": "extreme astounding"
+  },
+  {
+    "word": "submerge",
+    "descr": "put under water liquid sink out of sight"
+  },
+  {
+    "word": "suborn",
+    "descr": "induce by bribery or smth to commit perjury"
+  },
+  {
+    "word": "subpoena",
+    "descr": "written order requiring a person to appear in a low court"
+  },
+  {
+    "word": "substantiation",
+    "descr": "giving facts to support (statement)"
+  },
+  {
+    "word": "subsume",
+    "descr": "include under a rule"
+  },
+  {
+    "word": "succor",
+    "descr": "assistance relief in time of distress"
+  },
+  {
+    "word": "suffice",
+    "descr": "be enough"
+  },
+  {
+    "word": "suffocate",
+    "descr": "cause or have difficulty in breathing"
+  },
+  {
+    "word": "sullied",
+    "descr": "to be stained or discredited"
+  },
+  {
+    "word": "summarily",
+    "descr": "briefly without delay"
+  },
+  {
+    "word": "sumptuous",
+    "descr": "magnificent"
+  },
+  {
+    "word": "sundry",
+    "descr": "various miscellaneous separate"
+  },
+  {
+    "word": "supercilious",
+    "descr": "disdainful characterized by haughty scorn"
+  },
+  {
+    "word": "superfluous",
+    "descr": "more then is needed or wanted"
+  },
+  {
+    "word": "superimpose",
+    "descr": "put smth on the top"
+  },
+  {
+    "word": "supersede",
+    "descr": "take the place of"
+  },
+  {
+    "word": "supine",
+    "descr": "lying on the back slow to act passive"
+  },
+  {
+    "word": "suppliant",
+    "descr": "asking humbly beseeching"
+  },
+  {
+    "word": "supplicate",
+    "descr": "make a humble petition to"
+  },
+  {
+    "word": "suppress",
+    "descr": "prevent from being known put an end to"
+  },
+  {
+    "word": "surcharge",
+    "descr": "additional load/charge"
+  },
+  {
+    "word": "surfeit",
+    "descr": "satiate feed to fulness or to excess"
+  },
+  {
+    "word": "susceptibility",
+    "descr": "sensitiveness"
+  },
+  {
+    "word": "swerve",
+    "descr": "change direction suddenly"
+  },
+  {
+    "word": "sycophant",
+    "descr": "person who flatter to the rich and powerful"
+  },
+  {
+    "word": "synopsis",
+    "descr": "summary or outline"
+  },
+  {
+    "word": "taciturn",
+    "descr": "untalkative silent"
+  },
+  {
+    "word": "tadpole",
+    "descr": "form of a frog when it leaves the egg"
+  },
+  {
+    "word": "talon",
+    "descr": "claw of a bird of prey"
+  },
+  {
+    "word": "tamp",
+    "descr": "tap or drive down by repeated light blows"
+  },
+  {
+    "word": "tamper",
+    "descr": "interfere with"
+  },
+  {
+    "word": "tangential",
+    "descr": "suddenly changeable"
+  },
+  {
+    "word": "tarnished",
+    "descr": "lost brightness"
+  },
+  {
+    "word": "tassel",
+    "descr": "bunch of threads"
+  },
+  {
+    "word": "taunt",
+    "descr": "contemptuous reproach hurtful remark"
+  },
+  {
+    "word": "taut",
+    "descr": "tightly stretched"
+  },
+  {
+    "word": "tautology",
+    "descr": "a repetition a redundancy"
+  },
+  {
+    "word": "tawdry",
+    "descr": "cheap gaudy showy tacky"
+  },
+  {
+    "word": "teetotal",
+    "descr": "oppose to alcohol"
+  },
+  {
+    "word": "temerity",
+    "descr": "boldness brashness intrepidness"
+  },
+  {
+    "word": "temperance",
+    "descr": "abstinence from alcohol self-control moderation"
+  },
+  {
+    "word": "temperate",
+    "descr": "showing self-control"
+  },
+  {
+    "word": "tenacity",
+    "descr": "firmness persistency adhesiveness tending to hang on"
+  },
+  {
+    "word": "tenuous",
+    "descr": "insubstantial flimsy weak"
+  },
+  {
+    "word": "tepid",
+    "descr": "lukewarm"
+  },
+  {
+    "word": "terse",
+    "descr": "brief and to the point"
+  },
+  {
+    "word": "testiness",
+    "descr": "witness/evidence"
+  },
+  {
+    "word": "thrift",
+    "descr": "care economy thriving prosperous"
+  },
+  {
+    "word": "thwart",
+    "descr": "obstruct/frustrate"
+  },
+  {
+    "word": "timid",
+    "descr": "shy easily frightened"
+  },
+  {
+    "word": "timorous",
+    "descr": "fearful timid afraid"
+  },
+  {
+    "word": "toady",
+    "descr": "obsequious flatterer"
+  },
+  {
+    "word": "tonic",
+    "descr": "smth giving strength or energy"
+  },
+  {
+    "word": "topple",
+    "descr": "be unsteady and overturn"
+  },
+  {
+    "word": "torment",
+    "descr": "severe pain or suffering"
+  },
+  {
+    "word": "torpid",
+    "descr": "sleeping sluggish lethargic dormant"
+  },
+  {
+    "word": "torque",
+    "descr": "twisting force causing rotation"
+  },
+  {
+    "word": "tortuous",
+    "descr": "devious/not straightforward"
+  },
+  {
+    "word": "tout",
+    "descr": "person who worries others to buy smth to use his service"
+  },
+  {
+    "word": "tractable",
+    "descr": "easily controlled or guided"
+  },
+  {
+    "word": "transgress",
+    "descr": "break go beyond (a limit)"
+  },
+  {
+    "word": "transient",
+    "descr": "temporary fleeting"
+  },
+  {
+    "word": "transitory",
+    "descr": "brief"
+  },
+  {
+    "word": "travesty",
+    "descr": "parody/imitation"
+  },
+  {
+    "word": "trenchant",
+    "descr": "forceful effective vigorous extremely perceptive incisive"
+  },
+  {
+    "word": "trepidation",
+    "descr": "alarm excited state of mind"
+  },
+  {
+    "word": "trickle",
+    "descr": "flow in drops"
+  },
+  {
+    "word": "trifling",
+    "descr": "unimportant"
+  },
+  {
+    "word": "trite",
+    "descr": "not new"
+  },
+  {
+    "word": "truce",
+    "descr": "(agreement) stop of fighting for a time"
+  },
+  {
+    "word": "truculence",
+    "descr": "aggressiveness ferocity"
+  },
+  {
+    "word": "trudge",
+    "descr": "walk heavily"
+  },
+  {
+    "word": "turbid",
+    "descr": "muddy having the sediment stirred up"
+  },
+  {
+    "word": "turbulence",
+    "descr": "being uncontrolled violent"
+  },
+  {
+    "word": "turgid",
+    "descr": "excessively ornate swollen or bloated"
+  },
+  {
+    "word": "turmoil",
+    "descr": "trouble disturbance"
+  },
+  {
+    "word": "turpitude",
+    "descr": "wickedness shamefulness"
+  },
+  {
+    "word": "turquoise",
+    "descr": "greenish-blue precious stone"
+  },
+  {
+    "word": "tyro",
+    "descr": "tiro beginner"
+  },
+  {
+    "word": "ubiquitous",
+    "descr": "present everywhere"
+  },
+  {
+    "word": "ulterior",
+    "descr": "situated beyond"
+  },
+  {
+    "word": "umbrage",
+    "descr": "offense resentment"
+  },
+  {
+    "word": "uncouth",
+    "descr": "rough awkward"
+  },
+  {
+    "word": "underbid",
+    "descr": "make a lower bid then smb else"
+  },
+  {
+    "word": "undermine",
+    "descr": "weaken gradually at the base make smth under"
+  },
+  {
+    "word": "undulate",
+    "descr": "to move in wavelike fashion fluctuate"
+  },
+  {
+    "word": "unearth",
+    "descr": "discover and bring to light"
+  },
+  {
+    "word": "unencumbered",
+    "descr": "easy-going trifle"
+  },
+  {
+    "word": "unfeigned",
+    "descr": "not pretended sincere"
+  },
+  {
+    "word": "unscathed",
+    "descr": "unharmed unhurt"
+  },
+  {
+    "word": "untoward",
+    "descr": "unfortunate inconvenient"
+  },
+  {
+    "word": "upbraid",
+    "descr": "scold reproach"
+  },
+  {
+    "word": "urbane",
+    "descr": "elegant refined in manners"
+  },
+  {
+    "word": "vacillation",
+    "descr": "being uncertain hesitating"
+  },
+  {
+    "word": "vagary",
+    "descr": "strange act or idea"
+  },
+  {
+    "word": "vain",
+    "descr": "without use result conceited"
+  },
+  {
+    "word": "valiant",
+    "descr": "brave"
+  },
+  {
+    "word": "valorous",
+    "descr": "brave"
+  },
+  {
+    "word": "vanquish",
+    "descr": "conquer"
+  },
+  {
+    "word": "veer",
+    "descr": "change direction"
+  },
+  {
+    "word": "venal",
+    "descr": "ready to do smth dishonest"
+  },
+  {
+    "word": "veneer",
+    "descr": "surface appearance covering the TRUE nature"
+  },
+  {
+    "word": "veneration",
+    "descr": "regard with deep respect"
+  },
+  {
+    "word": "veracity",
+    "descr": "truth"
+  },
+  {
+    "word": "verdant",
+    "descr": "fresh and green"
+  },
+  {
+    "word": "verisimilitude",
+    "descr": "appearing TRUE or real"
+  },
+  {
+    "word": "veritable",
+    "descr": "real rightly named"
+  },
+  {
+    "word": "verve",
+    "descr": "spirit vigor enthusiasm"
+  },
+  {
+    "word": "vestige",
+    "descr": "trace or sign"
+  },
+  {
+    "word": "vex",
+    "descr": "annoy distress trouble"
+  },
+  {
+    "word": "vigilance",
+    "descr": "watchfulness self-appointed group who maintain order"
+  },
+  {
+    "word": "vigilant",
+    "descr": "member of a vigilance committee"
+  },
+  {
+    "word": "vigorous",
+    "descr": "strong energetic"
+  },
+  {
+    "word": "vilify",
+    "descr": "slander say evil things"
+  },
+  {
+    "word": "vindictive",
+    "descr": "having a desire to revenge"
+  },
+  {
+    "word": "virago",
+    "descr": "a loud domineering woman a scold or nag"
+  },
+  {
+    "word": "visceral",
+    "descr": "of the internal organs of the body"
+  },
+  {
+    "word": "viscous",
+    "descr": "sticky/semi-fluid"
+  },
+  {
+    "word": "vitiate",
+    "descr": "lower the quality weaken the strength"
+  },
+  {
+    "word": "vituperate",
+    "descr": "curse abuse in words"
+  },
+  {
+    "word": "vivacious",
+    "descr": "lively high-spirited"
+  },
+  {
+    "word": "volatile",
+    "descr": "changeable inconstant fickle unstable explosive"
+  },
+  {
+    "word": "volubility",
+    "descr": "fluency verbosity easy use of spoken language"
+  },
+  {
+    "word": "voluble",
+    "descr": "fluent"
+  },
+  {
+    "word": "waffle",
+    "descr": "talk vaguely and without much result"
+  },
+  {
+    "word": "waft",
+    "descr": "scent waving movement carry lightly through"
+  },
+  {
+    "word": "wag",
+    "descr": "merry person"
+  },
+  {
+    "word": "warmonger",
+    "descr": "person who stirs up war"
+  },
+  {
+    "word": "warrant",
+    "descr": "authority written order guarantee"
+  },
+  {
+    "word": "wean",
+    "descr": "to turn away (from a habit)"
+  },
+  {
+    "word": "weigh",
+    "descr": "measure hoe heavy smth is"
+  },
+  {
+    "word": "welter",
+    "descr": "turmoil a bewildering jumble"
+  },
+  {
+    "word": "wend",
+    "descr": "to go proceed"
+  },
+  {
+    "word": "whimsical",
+    "descr": "full of odd and fanciful ideas"
+  },
+  {
+    "word": "wince",
+    "descr": "show bodily or mental pain"
+  },
+  {
+    "word": "woo",
+    "descr": "try to win"
+  },
+  {
+    "word": "writ",
+    "descr": "written order"
+  },
+  {
+    "word": "yarn",
+    "descr": "tale story fibers for knitting"
+  }
+]
